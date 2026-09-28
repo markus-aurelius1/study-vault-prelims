@@ -73,8 +73,7 @@ The two Master Sheet formats get everything: exam tags, traps, recall prompts an
 - After extraction, the build renders every line with the vault's renderer and **compares it against the
   source's own renderer**. Any difference fails the build.
 - Polity (v2) result: all 1,960 lines, all 203 column headers and all 88 sheet notes and stats lines are
-  identical to the source's own rendering. Geography (v1, added 28 Sept 2026): all 3,837 lines, 327 column
-  headers, 120 notes and stats lines and 45 figures are identical. If a source's renderer ever hides part of a line, the vault
+  identical to the source's own rendering. If a source's renderer ever hides part of a line, the vault
   shows the full line and the build lists it.
 - Figures are checked for safety and size (no scripts, no remote references, colours from the theme,
   size caps), and each one must come out of both renderers as identical markup. A figure that fails is

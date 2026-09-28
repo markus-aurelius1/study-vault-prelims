@@ -1,9 +1,7 @@
 # CODEX_HANDOFF.md — Study Vault (UPSC / UPPCS Prelims notes reader)
 
-Last updated: 2026-09-28. Since 2026-09-28 (08:49 IST) the folder is a **git repository**, pushed by the user to
-`https://github.com/markus-aurelius1/study-vault-prelims` (one commit, "Initial repository upload"). Agents don't
-commit or push unless the user asks, so `backups/` (pre-change copies) and §6 of this file remain the working
-history.
+Last updated: 2026-09-28. This folder is **not a git repository**: there are no commits or branches. The only
+history is `backups/` (pre-change copies) and §6 of this file.
 
 **Maintenance rule (for every agent; the full protocol and the "done" checklist are in `AGENTS.md`):** update
 this file as part of every change: features, fixes, refactors, config, notes content or design decisions. Edit
@@ -11,14 +9,16 @@ the relevant section; don't rewrite the whole file. If the change touches conten
 reports, prompts, UI copy), update that entry in §4 so it states the **current standard**, not just that the
 feature exists. Add one line to §6. Verify every claim here against the files before relying on it.
 
-**Geography is live (2026-09-28):** all 30 sheets were assembled into `sources/Geography_Master_Sheet_v1.html`,
-added to `vault.config.json` as subject 2, built and deployed to production. The session that drafted it kept one
-part file per sheet in its scratch folder
+**Work in flight (2026-09-27, afternoon IST):** the Claude Code session titled "Geography Master Sheet for
+UPSC/UPPCS" has written Geography Batches 2–9 (sheets 05–30, the whole map) to `drafts/Geography_Master_Sheet_v1.html`; they
+await the user's review. It keeps one part file per sheet in its scratch folder
 (`%TEMP%\claude\C--Users-hario-Downloads-Notes-Builder\36f1b2e5-f427-43bc-90b4-fd828b1096a7\scratchpad\geo\`,
-`b<batch>_<sheet>.js`, assembled onto the template by `assemble.py`); the scratch folder may be cleared at any
-time, so treat `sources/Geography_Master_Sheet_v1.html` as the master from now on. Edits to it follow §4.4 once
-the user approves the subject, like Polity. `drafts/Geography_Master_Sheet_v1.html` is an identical copy kept for
-reference.
+`b<batch>_<sheet>.js`), assembles them onto the template with `assemble.py`, and rewrites the whole draft after
+each batch. All 30 sheets are drafted; final assembly waits for the user's review. The assemble order is b1 …
+b7_population, b8_physical, b8_seas, b8_regions, b8_resources, b7_up, b9_numbers, b9_radar, so the sheets stay in
+topic-map order. Sheet 29 is generated: after editing any thematic line, re-run `extract_b9.py` and then
+`gen_b9n.py` (§9). Don't edit `drafts/` while it runs; re-read the draft before trusting
+the Geography numbers in §5.
 
 ---
 
@@ -29,9 +29,9 @@ UPPCS Prelims (and, secondarily, CDS/NDA, CAPF and other state PCS papers). A No
 subject notes files (self-contained HTML "Master Sheets" in `sources/`) without changing a word. It verifies,
 line by line, that the app renders every line exactly as the file's own renderer does, and then publishes a
 static PWA. The PWA offers navigation, search, active-recall modes, section-level spaced revision, PYQ
-(previous-year question) filters and progress tracking. Polity and Geography are live; Geography (subject #2) was
-written by an AI agent in reviewed batches from the user's raw notes and PYQ compilations and deployed on
-2026-09-28. Economy, History, Environment and Science & Tech are planned, one subject file each.
+(previous-year question) filters and progress tracking. Polity is live. Geography, subject #2, is being written
+by an AI agent in batches from the user's raw notes and PYQ compilations. Economy, History, Environment and
+Science & Tech are planned, one subject file each.
 
 ## 2. Tech stack
 
@@ -507,19 +507,15 @@ clear for today."
 
 ## 5. Current state (verified 2026-09-27)
 
-- **Production** (https://study-vault-mocha.vercel.app, deployment `dpl_GQPXm81AcPoSNLjTUX46R5q1AmHX`,
-  2026-09-28 11:17 IST) matches the local build: the deployed `sw.js` has `VERSION = "vault-10bb1157d1b5"`, the
-  same as local, and `data/subjects/geography.js` (775,040 bytes) and `data/sheets/geography.html` (790,905 bytes)
-  are byte-for-byte the same size as local. It serves **Polity and Geography**; `sources/` and
-  `data/registry.json` are not published (`.vercelignore`).
+- **Production** (https://study-vault-mocha.vercel.app) matches the local build: the deployed `sw.js` has
+  `VERSION = "vault-c91beca80442"`, the same as local, and the deployed `render.js` includes the figure code.
+  It serves Polity only.
 - **Polity** (`sources/Polity_Master_Sheet_v2.html`): 22 sheets · 188 sections · 1,960 lines. Fidelity
   1960/1960, 203 column headers match, 88 notes/stats lines match (scratch build, 2026-09-27).
-- **Geography** (`sources/Geography_Master_Sheet_v1.html`, subject id `geography`, order 2): 30 sheets · 438
-  sections · 3,837 lines · 45 SVG figures (140 KB). Fidelity 3837/3837, 327 headers, 120 notes/stats lines, 45/45
-  figures (real build, 2026-09-28); lint 0 errors, 0 warnings; the §13 pre-flight passes except the label-size
-  rule (§9). The dashboard shows 393 sections because figure-only sections are not counted for study. Batch 1 is
-  approved; the user assembled and deployed Batches 2–9 without a separate review message, so they are not yet
-  saved to `examples/`. It is not in `sources/`, so it is not in the Vault.
+- **Geography draft** (`drafts/Geography_Master_Sheet_v1.html`, last written 2026-09-28 IST): all sheets 01–30
+  (Batches 1–9): 30 sheets · 438 sections · 3,837 lines · 45 SVG figures (140 KB). Fidelity 3837/3837,
+  327 headers, 120 notes/stats lines, 45/45 figures (scratch build, 2026-09-28); scratch lint 0 errors, 0 warnings.
+  Batch 1 is approved; Batches 2–9 are delivered and await review. It is not in `sources/`, so it is not in the Vault.
 - **Draft vs approved snapshot:** sheets 01–04 in the draft differ from `examples/geography-notes/batch-01_sheets-01-04.js`
   in 4 lines, changed while drafting Batch 3 and reported in that batch's report: two `tectonics` lines gained tags
   (`[UPPCS 1998]` with "as its palaeomagnetic record shows"; `[UPPCS 2024]`), the "Residual (relict)" row gained
@@ -533,9 +529,6 @@ clear for today."
 
 ## 6. Recent changes (newest first)
 
-- 2026-09-28 — Geography assembled into `sources/`, added to `vault.config.json` (order 2), built (both
-  subjects pass fidelity) and deployed to production; the temporary `geo-scratch` preview config was removed —
-  the user asked to assemble and deploy.
 - 2026-09-28 — Geography Batch 9 (sheets 29 `numbers`, 30 `radar`) written to `drafts/`; the `india-climate`
   IMD line now carries the headquarters order (UPPCS 2018), and 10 Batch 8 lines that re-tagged questions
   already tagged in earlier sheets were removed, and `population` gained the infant-mortality definition
@@ -586,8 +579,7 @@ clear for today."
 - **Notes file naming:** `<Subject>_Master_Sheet_v<N>.html`, one version per subject in `sources/`. Archive old
   versions in `sources/old/` (subfolders are ignored).
 - **Before changing code or docs**, copy every file you'll touch to `backups/pre-<change>-<YYYY-MM-DD>/`,
-  mirroring paths (as in `backups/pre-figures-2026-09-27/`). Git now exists but agents don't commit, so this
-  is still the diff baseline for uncommitted work.
+  mirroring paths (as in `backups/pre-figures-2026-09-27/`). With no git, this is the only diff baseline.
 - **Guide sections are cited by number** in the user's own generation prompt (§11–§14). Append new sections;
   never renumber.
 - **Drafts vs sources:** a subject stays in `drafts/` until every batch is approved; it moves to `sources/` only
@@ -628,15 +620,8 @@ node tools/build.mjs && npx --yes vercel@latest deploy --prod --yes
 
 ## 9. Known issues / gotchas
 
-1. **Geography was built by one drafting session** (see the note at the top); its working notes follow.
-   - **Figure labels below 15 units:** 17 figures from Batches 4–8 have secondary labels at `font-size='14'` and
-     three (demographic transition, population pyramids, UP river confluences) also at 13. Guide §14.5 asks for
-     at least 15. They read at about 16 px on a desktop but about 7 px on a phone. Raising them means re-running
-     each map's label placement and the overlap check (§4.2), so it was left for a follow-up the user can
-     request. Affected: Ganga tributaries west to east, Normal year and El Niño, Soil profile, Vegetation belts
-     of the Himalaya, Major dams and rivers, Cropping calendar, Where the mines are, Coal and oil fields, Nuclear
-     power stations, Highway corridors, Ports on the map, The demographic transition, Population pyramids, Lakes
-     of Africa’s rift, Where the Great Lakes lie, From the Mediterranean to the Gulf, Where UP’s rivers meet.
+1. **The Geography drafting session writes `drafts/Geography_Master_Sheet_v1.html`** after every batch (see the
+   note at the top). Coordinate through the user before touching it.
    - The CSE 2026 question pages in `CSP-26 With Answer Key.pdf` are **Series A** but its key page is **Series D**,
      so question numbers don't line up. Work each answer out from the question's content (done for Q11, 13, 24,
      25, 26, 30, 31, 33, 34, 39, 61, 95; the answers are listed in the scratch `pyq_notes.md`).
@@ -694,10 +679,9 @@ node tools/build.mjs && npx --yes vercel@latest deploy --prod --yes
    otherwise verify with DOM checks (`getBBox`, computed styles).
 7. **Everything in `sources/` becomes a subject**, including PYQ analyses and drafts. `data/registry.json` still
    lists `upsc-prelims-pyq-analysis` and `polity-master-sheet-v2` from 2026-09-25, when such files were built by
-   mistake. The entries are harmless, but that is the trap. The PYQ analyses now live in `pyq-analysis/` (outside
-   `sources/`, added by the user on 2026-09-28).
+   mistake. The entries are harmless, but that is the trap.
 8. **`vault.config.json` must be valid JSON**, or the build silently ignores it and every subject loses its name
-   and order. It now holds Polity (order 1) and Geography (order 2).
+   and order. Geography needs `"geography": { "name": "Geography", "order": 2 }` at assembly.
 9. **Accent colour by substring:** "Earth Science" matches `art` and gets the History colour. Set `accent` when a
    name collides.
 10. **Polity Recall gaps:** 82 of 1,105 list lines have neither bold nor a separator. The file is immutable, so
@@ -705,22 +689,18 @@ node tools/build.mjs && npx --yes vercel@latest deploy --prod --yes
 11. **Deleting in Bash:** the safety check resolves relative globs against the project, so use fresh scratch
     directories instead of `rm` with a relative glob after `cd`.
 12. `.env.local` holds a Vercel OIDC token. It is git- and Vercel-ignored; never print it or copy it into docs.
-13. **Vercel "Not authorized":** on 2026-09-28 the first `npx --yes vercel@latest deploy --prod --yes` (CLI 60.1.3)
-    failed with `"reason": "deploy_failed", "message": "Not authorized"`, while `vercel whoami`, `teams ls` and
-    `project ls` all worked. An immediate retry succeeded. Retry once before debugging; add `--debug` and filter
-    the output (it can include request details) if it fails twice.
 
 ## 10. Next steps (priority order)
 
-1. **Geography review items** (ask the user; nothing is blocked):
-   - whether Batches 2–9 count as approved, so they can be saved to `examples/geography-notes/` next to Batch 1;
-   - the label-size fix for 17 figures (§9.1), then rebuild and redeploy;
-   - the "(NCERT grouping)" mention in approved sheet 02 (§9.2), the Kourou omission (§4.1) and whether the 4
-     back-fixed Batch 1 lines (§5) should go into the approved example;
-   - trimming `numbers` (284 lines) if it is too long for the night before.
-2. **Commit a lint script** (`tools/lint.mjs`) for the §11.3 checks so every agent runs the same one. The
-   Geography session's lint (`lint.mjs` in its scratch folder) is the starting point; ask before adding it.
-3. **Next subjects** (Economy, History, Environment, Science & Tech) follow the same pipeline: a raw-sources
+1. **Review Geography.** All 30 sheets are drafted; Batches 2–9 (sheets 05–30) await the user's review.
+   Apply the fixes the user asks for (re-generate `numbers` afterwards, §9).
+   Keep the §4.1 bar; save each approved batch to `examples/geography-notes/`, and ask the user whether the 4
+   back-fixed Batch 1 lines (§5) should also go into the approved example.
+2. **Final assembly:** copy the approved draft to `sources/Geography_Master_Sheet_v1.html`, add Geography to
+   `vault.config.json` (order 2), build, run the full acceptance test and the §13 checklist, spot-check the Vault,
+   update §5/§6 here, then deploy when the user asks.
+3. **Commit a lint script** (`tools/lint.mjs`) for the §11.3 checks so every agent runs the same one.
+4. **Ask the user** about the "(NCERT grouping)" mention (§9.2) and the Kourou omission (§4.1).
+5. **Next subjects** (Economy, History, Environment, Science & Tech) follow the same pipeline: a raw-sources
    folder, a Phase-1 PYQ analysis, a topic map the user confirms, then reviewed batches.
-4. **Git:** the repo exists (see the top); commit and push only when the user asks. `AGENTS.md` §4 and §5 still
-   say "No git" and "ask before `git init`" — ask the user whether to update them.
+6. Optional, ask first: `git init` so changes can be reviewed as diffs instead of against `backups/` copies.

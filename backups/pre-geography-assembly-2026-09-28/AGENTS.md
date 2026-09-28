@@ -17,9 +17,9 @@ content, also read `NOTES_FORMAT_GUIDE.md` (the authority on the notes format).
 Study Vault is a personal, offline-first revision web app for one UPSC CSE / UPPCS Prelims aspirant. A Node build
 reads the user's subject notes files (self-contained HTML "Master Sheets" in `sources/`) **without changing a
 word**. It checks line by line that the app renders them exactly as each file's own renderer does, and publishes
-a static PWA with search, active recall, spaced revision, PYQ filters and progress. Polity and Geography are live
-at https://study-vault-mocha.vercel.app. Geography (subject #2) was written by an AI agent in user-reviewed
-batches from the user's raw notes and PYQ compilations and deployed on 2026-09-28.
+a static PWA with search, active recall, spaced revision, PYQ filters and progress. Polity is live at
+https://study-vault-mocha.vercel.app. Geography (subject #2) is being written by an AI agent in user-reviewed
+batches from the user's raw notes and PYQ compilations.
 
 ## 2. Repo layout
 
