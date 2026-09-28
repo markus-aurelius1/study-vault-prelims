@@ -11,11 +11,6 @@ the relevant section; don't rewrite the whole file. If the change touches conten
 reports, prompts, UI copy), update that entry in §4 so it states the **current standard**, not just that the
 feature exists. Add one line to §6. Verify every claim here against the files before relying on it.
 
-**Local subject #3 (2026-09-28):** Environment & Ecology was assembled from the release-audited,
-content-frozen `C:\Users\hario\Downloads\Environment\03-drafted-sheets-v3.txt` into
-`sources/Environment_and_Ecology_Master_Sheet_v1.html`. It builds locally as `environment-and-ecology`
-(order 3); production deployment has not been performed for this subject.
-
 **Geography is live (2026-09-28):** all 30 sheets were assembled into `sources/Geography_Master_Sheet_v1.html`,
 added to `vault.config.json` as subject 2, built and deployed to production. The session that drafted it kept one
 part file per sheet in its scratch folder
@@ -34,10 +29,9 @@ UPPCS Prelims (and, secondarily, CDS/NDA, CAPF and other state PCS papers). A No
 subject notes files (self-contained HTML "Master Sheets" in `sources/`) without changing a word. It verifies,
 line by line, that the app renders every line exactly as the file's own renderer does, and then publishes a
 static PWA. The PWA offers navigation, search, active-recall modes, section-level spaced revision, PYQ
-(previous-year question) filters and progress tracking. Polity and Geography are deployed; Environment & Ecology
-is integrated locally as subject #3. Geography (subject #2) was
+(previous-year question) filters and progress tracking. Polity and Geography are live; Geography (subject #2) was
 written by an AI agent in reviewed batches from the user's raw notes and PYQ compilations and deployed on
-2026-09-28. Economy, History and Science & Tech are planned, one subject file each.
+2026-09-28. Economy, History, Environment and Science & Tech are planned, one subject file each.
 
 ## 2. Tech stack
 
@@ -68,11 +62,9 @@ NOTES_FORMAT_GUIDE.md   the authority on notes-file mechanics (§1–§14 + appe
 README.md               user-facing overview (features, folder layout, publishing)
 sources/                subject notes files; each *.html directly in here becomes a subject. Read-only to the build.
   Polity_Master_Sheet_v2.html   subject #1 (user's own notes; content-edited once on request, see §6)
-  Geography_Master_Sheet_v1.html   subject #2 (deployed)
-  Environment_and_Ecology_Master_Sheet_v1.html   subject #3 (local build; content frozen)
 templates/Master_Sheet_TEMPLATE.html   page shell + RENDER region every new subject copies; has 3 example sheets
 drafts/                 work in progress that must NOT be in sources/ yet
-  Geography_Master_Sheet_v1.html   identical reference copy of the live Geography source
+  Geography_Master_Sheet_v1.html   Geography draft (full file; sheets 01–19 so far)
 raw-sources/Geography/  inputs for the Geography build (user's notes, PYQ PDFs, analyses). Never published.
 examples/               approved outputs, kept as ground truth for §4 (never read by the build)
 backups/                originals and change reports from edits; pre-change copies of code (see §7)
@@ -156,13 +148,6 @@ name resets progress (guide §9).
    Objective old UPPCS Mains questions are still tagged `[UPPCS M yyyy]`.
 
 ### 4.1 Subject notes files (Master Sheet v2)
-
-**Environment release source:** `sources/Environment_and_Ecology_Master_Sheet_v1.html` contains the 25
-release-audited sheets from `C:\Users\hario\Downloads\Environment\03-drafted-sheets-v3.txt` in exact order.
-Its CONTENT payload is byte-for-byte identical to that approved file. Treat the integrated file as frozen:
-do not rewrite, shorten, reorganise or retag it during app work; report substantive concerns for user review.
-Keep the current template's `<style>` and RENDER regions intact. The build target is 25 sheets, 210 blocks,
-1,073 lines and 19 SVG figures, with 1073/1073 line and 19/19 figure fidelity.
 
 **Where:** `sources/<Subject>_Master_Sheet_v<N>.html` (live) and `drafts/…` (in progress). Mechanics (syntax,
 fields, tag grammar, build errors) are defined in `NOTES_FORMAT_GUIDE.md`. Look them up there and don't
@@ -520,7 +505,7 @@ clear for today."
 
 ---
 
-## 5. Current state (verified 2026-09-28)
+## 5. Current state (verified 2026-09-27)
 
 - **Production** (https://study-vault-mocha.vercel.app, deployment `dpl_GQPXm81AcPoSNLjTUX46R5q1AmHX`,
   2026-09-28 11:17 IST) matches the local build: the deployed `sw.js` has `VERSION = "vault-10bb1157d1b5"`, the
@@ -534,30 +519,20 @@ clear for today."
   figures (real build, 2026-09-28); lint 0 errors, 0 warnings; the §13 pre-flight passes except the label-size
   rule (§9). The dashboard shows 393 sections because figure-only sections are not counted for study. Batch 1 is
   approved; the user assembled and deployed Batches 2–9 without a separate review message, so they are not yet
-  saved to `examples/`. It is in `sources/` and was deployed on 2026-09-28.
-- **Environment & Ecology** (`sources/Environment_and_Ecology_Master_Sheet_v1.html`, subject id
-  `environment-and-ecology`, order 3): the approved 25 `SEC` calls from
-  `C:\Users\hario\Downloads\Environment\03-drafted-sheets-v3.txt` are preserved byte-for-byte in the current
-  template shell. 25 sheets · 210 blocks · 1,073 lines · 19 SVG figures (29 KB). Local build fidelity:
-  1073/1073 lines, 255 column headers, 100 sheet notes/stats lines, 19/19 figures. This is a frozen release
-  source: preserve its sheet IDs, headings, order, wording, tags and figures; make no content correction without
-  explicit user approval. The dashboard counts 191 study sections because 19 figure-only blocks are reference
-  material. The existing accent rule supplies `#3C7A3A`. This subject has not been deployed.
+  saved to `examples/`. It is not in `sources/`, so it is not in the Vault.
 - **Draft vs approved snapshot:** sheets 01–04 in the draft differ from `examples/geography-notes/batch-01_sheets-01-04.js`
   in 4 lines, changed while drafting Batch 3 and reported in that batch's report: two `tectonics` lines gained tags
   (`[UPPCS 1998]` with "as its palaeomagnetic record shows"; `[UPPCS 2024]`), the "Residual (relict)" row gained
   `[UPPCS M 2005]` and a bolded **Aravalli**, and the `landforms` "Radial" row now reads Amarkantak "(Narmada, Son,
   Johila)" instead of "(… Mahanadi)" — the Mahanadi rises at Sihawa. The user hasn't confirmed them yet; the
   example file is untouched. From now on, propose changes to approved batches and wait for a yes (`AGENTS.md` §5).
-- **Works:** local three-subject build with fidelity and figure checks, reader, recall mode, pretest, filters, search (`Ctrl K`),
+- **Works:** build with fidelity and figure checks, reader, recall mode, pretest, filters, search (`Ctrl K`),
   revision, drills, PYQ explorer, progress, personal layer, export/import, offline PWA, published notes files
   (`data/sheets/<id>.html`).
 - **Known broken:** nothing known in code. Content open items are in §9.
 
 ## 6. Recent changes (newest first)
 
-- 2026-09-28 — Integrated the release-audited Environment & Ecology sheets as local subject #3, configured
-  order 3 and rebuilt all subjects with exact line/figure fidelity — to make the frozen notes available in the Vault.
 - 2026-09-28 — Geography assembled into `sources/`, added to `vault.config.json` (order 2), built (both
   subjects pass fidelity) and deployed to production; the temporary `geo-scratch` preview config was removed —
   the user asked to assemble and deploy.
@@ -745,7 +720,7 @@ node tools/build.mjs && npx --yes vercel@latest deploy --prod --yes
    - trimming `numbers` (284 lines) if it is too long for the night before.
 2. **Commit a lint script** (`tools/lint.mjs`) for the §11.3 checks so every agent runs the same one. The
    Geography session's lint (`lint.mjs` in its scratch folder) is the starting point; ask before adding it.
-3. **Next subjects** (Economy, History, Science & Tech) follow the same pipeline: a raw-sources
+3. **Next subjects** (Economy, History, Environment, Science & Tech) follow the same pipeline: a raw-sources
    folder, a Phase-1 PYQ analysis, a topic map the user confirms, then reviewed batches.
 4. **Git:** the repo exists (see the top); commit and push only when the user asks. `AGENTS.md` §4 and §5 still
    say "No git" and "ask before `git init`" — ask the user whether to update them.

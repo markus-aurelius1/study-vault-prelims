@@ -74,9 +74,7 @@ The two Master Sheet formats get everything: exam tags, traps, recall prompts an
   source's own renderer**. Any difference fails the build.
 - Polity (v2) result: all 1,960 lines, all 203 column headers and all 88 sheet notes and stats lines are
   identical to the source's own rendering. Geography (v1, added 28 Sept 2026): all 3,837 lines, 327 column
-  headers, 120 notes and stats lines and 45 figures are identical. Environment & Ecology (subject #3, integrated
-  locally on 28 Sept 2026): all 1,073 lines, 255 column headers, 100 notes and stats lines and 19 figures are
-  identical. Environment has not yet been deployed. If a source's renderer ever hides part of a line, the vault
+  headers, 120 notes and stats lines and 45 figures are identical. If a source's renderer ever hides part of a line, the vault
   shows the full line and the build lists it.
 - Figures are checked for safety and size (no scripts, no remote references, colours from the theme,
   size caps), and each one must come out of both renderers as identical markup. A figure that fails is
