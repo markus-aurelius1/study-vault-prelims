@@ -1,0 +1,19 @@
+{
+ "subjects": {
+  "polity": {
+   "addedAt": "2026-09-25T08:44:31.587Z",
+   "file": "Polity_Master_Sheet_v2.html",
+   "sha256": "b082a4931bd3e7a1b0131fd3c26e189fee0b72adf54b0718e238ef28266bd76c"
+  },
+  "upsc-prelims-pyq-analysis": {
+   "addedAt": "2026-09-25T18:41:25.645Z",
+   "file": "UPSC_Prelims_PYQ_Analysis.html",
+   "sha256": "3e93159732167387532c249d3d287e3c5b5d3f4aca0dd4d9f76b02dfd3d28c4f"
+  },
+  "polity-master-sheet-v2": {
+   "addedAt": "2026-09-25T18:51:30.428Z",
+   "file": "Polity_Master_Sheet_v2.html",
+   "sha256": "04a447e045033f3c7fdfc5bdebd9bdfa92e831d4012a07169ea5326371e1e614"
+  }
+ }
+}

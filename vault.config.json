@@ -1,0 +1,6 @@
+{
+  "_help": "Optional per-subject settings, keyed by subject id (the source file name without 'Master Sheets', lower-case, e.g. 'polity', 'geography'). All fields are optional: name, title, description, accent (#hex), order (lower = first). Rebuild after editing.",
+  "subjects": {
+    "polity": { "name": "Polity", "order": 1 }
+  }
+}

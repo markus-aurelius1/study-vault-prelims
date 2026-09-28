@@ -1,0 +1,31 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "vault",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8765",
+        "--bind",
+        "127.0.0.1"
+      ],
+      "port": 8765
+    },
+    {
+      "name": "geo-scratch",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8766",
+        "--bind",
+        "127.0.0.1",
+        "--directory",
+        "C:/Users/hario/AppData/Local/Temp/claude/C--Users-hario-Downloads-Notes-Builder/36f1b2e5-f427-43bc-90b4-fd828b1096a7/scratchpad/geo/vault/sources"
+      ],
+      "port": 8766
+    }
+  ]
+}

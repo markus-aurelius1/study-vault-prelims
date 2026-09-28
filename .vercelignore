@@ -1,0 +1,9 @@
+# Publish only the static app: index.html, the PWA files, app/ and data/ (built by tools/build.mjs).
+# sources/ (the raw notes files), templates/, backups/, tools/, .claude/ and the build files stay local.
+/*
+!index.html
+!manifest.webmanifest
+!sw.js
+!app
+!data
+data/registry.json

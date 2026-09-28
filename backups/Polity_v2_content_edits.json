@@ -1,0 +1,1426 @@
+[
+ {
+  "id": "E24",
+  "item": 3,
+  "pair": "(same pair — thematic side)",
+  "note": "",
+  "old": "now 12 Schedules [UPPCS M 2012; UP Lower M 2015]",
+  "new": "now 12 Schedules [UPPCS M 2012; UPPCS Spl M 2008; UP Lower M 2015]"
+ },
+ {
+  "id": "K1",
+  "item": 4,
+  "pair": "Political Theory › Constitution & constitutionalism — 5 lines restating “constitutional government = limited government” (CSE 2023, 2021, 2020, 2014; CAPF 2014)",
+  "note": "",
+  "old": "\"Chief purpose of a Constitution :: it **defines and limits the powers of government** [CSE 2023]\",\n\"Constitutional government means :: a government **limited by the terms of the Constitution** [CSE 2021]\",\n\"A constitutional government by definition is a :: **limited government** [CSE 2020]\",\n\"Constitutional government places effective restrictions on the **authority of the State in the interest of individual liberty** — !!not restrictions on liberty in the interest of State authority!! [CSE 2014]\",\n\"Constitutional government = limited government + Constitution as the basis of public authority; a monarch as formal head and universal adult franchise are !!not essential!! [CAPF 2014]\",",
+  "new": "\"Constitutional government, by definition :: a **limited government** — **limited by the terms of the Constitution**, whose chief purpose is to **define and limit the powers of government**; it places effective restrictions on the **authority of the State in the interest of individual liberty** (!!not restrictions on liberty in the interest of State authority!!), with the Constitution as the basis of public authority; a monarch as formal head and universal adult franchise are !!not essential!! [CSE 2023, 2021, 2020, 2014; CAPF 2014]\","
+ },
+ {
+  "id": "K3",
+  "item": 4,
+  "pair": "Political Theory › Liberty, equality, rights, rule of law — 3 lines each opening “Rule of Law” (CSE 2018, 2021; BPSC 2020)",
+  "note": "",
+  "old": "\"Main features of Rule of Law :: limitation of powers, equality before law, liberty & civil rights — !!“people’s responsibility to the Government” is not!! [CSE 2018]\",\n\"Dicey’s Rule of Law: absence of arbitrary power · equality before the law · constitution as the result of rights declared by courts — India has the first two; its rights flow from a written Constitution [CSE 2021]\",\n\"Rule of Law in one line: one law and one judiciary for all [BPSC 2020]\",",
+  "new": "\"Rule of Law :: one law and one judiciary for all [BPSC 2020]; main features — limitation of powers, equality before law, liberty & civil rights — !!“people’s responsibility to the Government” is not!! [CSE 2018]; Dicey’s version: absence of arbitrary power · equality before the law · constitution as the result of rights declared by courts — India has the first two; its rights flow from a written Constitution [CSE 2021]\","
+ },
+ {
+  "id": "K2",
+  "item": 4,
+  "pair": "Political Theory › Parliamentary vs presidential — 4 lines restating “the executive is responsible to the legislature” (CSE 2020, 2015, 2017 ×2; UPPCS 2025)",
+  "note": "tags kept next to each clause because CSE 2017 asked two separate questions here",
+  "old": "\"A parliamentary system is one in which :: the **Government is responsible to Parliament and can be removed by it** [CSE 2020]\",\n\"India has a parliamentary system because :: the **Council of Ministers is responsible to the Lok Sabha** [CSE 2015; UPPCS 2025]\",\n\"Main advantage of parliamentary government :: the **executive remains responsible to the legislature** [CSE 2017]\",\n\"Principle underlying Cabinet government :: **collective responsibility** of the Government to the people (through Parliament) [CSE 2017]\",",
+  "new": "\"Parliamentary government :: the **Government is responsible to Parliament and can be removed by it** [CSE 2020] — India has one because the **Council of Ministers is responsible to the Lok Sabha** [CSE 2015; UPPCS 2025]; main advantage: the **executive remains responsible to the legislature** [CSE 2017]; principle underlying Cabinet government: **collective responsibility** of the Government to the people (through Parliament) [CSE 2017]\","
+ },
+ {
+  "id": "U1",
+  "item": 6,
+  "pair": "Preamble › S.R. Bommai & LIC line — tag spelled with the Commission’s name",
+  "note": "",
+  "old": "Bommai used it for secularism and federalism [UPPSC 2012]",
+  "new": "Bommai used it for secularism and federalism [UPPCS 2012]"
+ },
+ {
+  "id": "E26",
+  "item": 3,
+  "pair": "Art 2 (Articles › Part I–II) ↔ Union › “Art 2: … admit … establish”",
+  "note": "",
+  "old": "!!admission is not an Art 3 power!! [UPPCS 2020]",
+  "new": "!!admission is not an Art 3 power!! [UPPCS 2020; UPPCS M 2016]"
+ },
+ {
+  "id": "E150",
+  "item": 3,
+  "pair": "(First Schedule — thematic side)",
+  "note": "",
+  "old": "passed by **simple majority** [UPPCS M 2011; UPPCS 2016; CDS 2014]",
+  "new": "passed by **simple majority** [UPPCS M 2011, 2014; UPPCS 2016; UP Lower 2008; CDS 2014]"
+ },
+ {
+  "id": "E111",
+  "item": 3,
+  "pair": "(Art 239 — thematic side)",
+  "note": "",
+  "old": "acts **independently of his CoM** [UPPCS 1995]",
+  "new": "acts **independently of his CoM** [UPPCS 1995; UP RO 2023]"
+ },
+ {
+  "id": "E32",
+  "item": 3,
+  "pair": "(Art 14 — Union side)",
+  "note": "",
+  "old": "\"Available to all persons: equal protection of laws (Art 14) and the rest of Part III outside the five above [UPPCS 2011]\"",
+  "new": "\"Available to all persons: equal protection of laws (Art 14) and the rest of Part III outside the five above [UPPCS 2011; UPPCS 2024; UPPCS 2010; UPPCS M 2016]\""
+ },
+ {
+  "id": "E31",
+  "item": 3,
+  "pair": "(Art 14 — FR table side)",
+  "note": "",
+  "old": "(American, positive — like treatment of the like); to **all persons**\"",
+  "new": "(American, positive — like treatment of the like); to **all persons** [UPPCS 2024; UPPCS 2010; UPPCS 2011; UPPCS M 2016]\""
+ },
+ {
+  "id": "E35",
+  "item": 3,
+  "pair": "(Art 16 — FR table side)",
+  "note": "",
+  "old": "\"16(1)–(2) [UPPCS M 2009; UP RO 2023];",
+  "new": "\"16(1)–(2) [UPPCS M 2009; UP RO 2023; UPPCS 2024];"
+ },
+ {
+  "id": "E37",
+  "item": 3,
+  "pair": "(Art 17 — FR table side)",
+  "note": "",
+  "old": "\"Category: **right to equality** — !!not right against exploitation!! [CSE 2020; UPPCS M 2003, 2013, 2015; UP RO 2017; UPPCS 1994]\"",
+  "new": "\"Category: **right to equality** — !!not right against exploitation!! [CSE 2020; UPPCS M 2003, 2013, 2015; UP RO 2017; UPPCS 1994; UPPCS 2024]\""
+ },
+ {
+  "id": "E41",
+  "item": 3,
+  "pair": "(Art 22 — FR side)",
+  "note": "",
+  "old": "right of representation [UPPCS M 2009; UP Lower 2013; JPSC 2021]",
+  "new": "right of representation [UPPCS M 2009, 2016; UP Lower 2013; JPSC 2021]"
+ },
+ {
+  "id": "K4",
+  "item": 4,
+  "pair": "DPSP › Nature of the Directive Principles — 2 lines restating Art 37 “not enforceable by any court … making of laws” (UP Lower 2004; UP RO 2023; CSE 2013; CSE 2020)",
+  "note": "",
+  "old": "\"**Art 37**: **not enforceable by any court**, yet **fundamental in the governance** of the country; duty of the State to apply them in making laws [UP Lower 2004; UP RO 2023; CSE 2013]\",\n\"Provisions of Part IV :: shall not be enforceable by any court, and are to **influence the making of laws** — !!“shall be enforceable” is wrong!! [CSE 2020]\",",
+  "new": "\"**Art 37** — provisions of Part IV :: shall **not be enforceable by any court** (!!“shall be enforceable” is wrong!!), yet are **fundamental in the governance** of the country; duty of the State to apply them in making laws — they are to **influence the making of laws** [UP Lower 2004; UP RO 2023; CSE 2013; CSE 2020]\","
+ },
+ {
+  "id": "E46",
+  "item": 3,
+  "pair": "(DPSP Article map side)",
+  "note": "",
+  "old": "[\"36 · 37\",\"Definition of State (as Art 12) · non-justiciable yet fundamental\",\"\"],\n[\"38\",\"Social order securing justice; **38(2)** minimise inequalities of income, status, facilities (**44th**)\",\"\"],\n[\"39\",\"(a) adequate livelihood · (b) resources for common good · (c) **no concentration of wealth** · (d) **equal pay for equal work** for men & women · (e) health of workers, children · (f) healthy development of children (**42nd**)\",\"Equal pay = DPSP, !!not an FR!! [UP Lower 2004; UPPCS 1998; UP UDA 2010; UPPCS M 2012; UPPCS M 2014]\"],\n[\"39A\",\"**Equal justice & free legal aid** (**42nd**) → Legal Services Authorities Act 1987\",\"Added later [UP RO 2014; UPPCS 2020]\"],\n[\"40\",\"Organise **village panchayats** as units of self-government (Gandhian) → 73rd Amdt\",\"[UP GIC 2017; UPPCS 2014; UPPCS 2015; UPPCS 2021]\"],\n[\"41\",\"**Right to work**, education, public assistance in unemployment, old age, sickness\",\"MGNREGA and NSAP rest here in principle (right to work) — but the UPPSC item “MGNREGA implements which Article” was keyed **Art 43** (twice), so mark 43 there; A–R: MGNREGA gives 100 days (A true), right to employment in Part III (R false) [UP UDA 2010; UP Lower 2009; UP Lower M 2013]\"],\n[\"42\",\"Just & humane conditions of work; **maternity relief**\",\"\"],\n[\"43\",\"**Living wage**, decent standard of life; **cottage industries** (individual/co-op, rural)\",\"\"],\n[\"43A\",\"**Workers’ participation in management of industries** (**42nd**)\",\"[CSE 2017; UPPCS 2019; UP Lower 2009] — !!not local self-government!! [CAPF 2019]\"],\n[\"43B\",\"Promotion of **co-operative societies** (**97th**, 2011)\",\"!!Not 43A!! [UPPCS 2021]\"],\n[\"44\",\"**Uniform Civil Code** — original, !!not added by the 42nd!!; Goa alone has a common civil code\",\"[UPPCS 1998; UPPCS M 2010; UP GIC 2010; UPPCS M 2009]\"],\n[\"45\",\"Early childhood care & education **below 6** (substituted by **86th**; earlier: free education to 14)\",\"Free education up to 14 is now **Art 21A**, !!not a DPSP!! [UP UDA 2010; UP Lower 2013]\"],\n[\"46\",\"Educational & economic interests of **SC/ST** and weaker sections\",\"\"],\n[\"47\",\"Nutrition, standard of living, public health; **prohibition** of intoxicating drinks & drugs\",\"Prohibition of liquor is a DPSP [UPPCS M 2002]\"],\n[\"48\",\"Organise **agriculture & animal husbandry**; cow slaughter\",\"!!Not separation of judiciary!! [UPPCS 2013; UPPCS 2020]\"],\n[\"48A\",\"Protect & improve **environment**, forests, wildlife (**42nd**)\",\"Also FD 51A(g) → in **both** [UPPCS 2019; UPPCS 2023; UPPCS M 2009]\"],\n[\"49\",\"**Monuments** & places of national importance\",\"DPSP, !!not an FD!! [UPPCS 2022; UPPCS M 2007]\"],\n[\"50\",\"**Separation of judiciary** from executive\",\"[CSE 2020; CSE 2025]\"],\n[\"51\",\"International peace; honourable relations; respect for international law & treaties (51(c)); **arbitration**\",\"Foreign-policy Article; !!no mention of UN peacekeeping!! [UPPCS 2016; CDS 2023]\"],",
+  "new": "[\"36 · 37\",\"Definition of State (as Art 12) · non-justiciable yet “fundamental in governance”\",\"36 ↔ DPSP [UPPCS 2010]\"],\n[\"38\",\"Welfare — social order securing justice; **38(2)** minimise inequalities of income, status, facilities (**44th**)\",\"\"],\n[\"39\",\"(a) adequate livelihood · (b) resources for common good · (c) **no concentration of wealth** · (d) **equal pay for equal work** for men & women · (e) health of workers, children · (f) healthy development of children (**42nd**)\",\"Equal pay = DPSP, !!not an FR!! [UP Lower 2004; UPPCS 1998; UP UDA 2010; UPPCS M 2012; UPPCS M 2014]\"],\n[\"39A\",\"**Equal justice & free legal aid** (**42nd**) → Legal Services Authorities Act 1987\",\"Added later [UP RO 2014; UPPCS 2020]\"],\n[\"40\",\"Organise **village panchayats** as units of self-government (Gandhian) → 73rd Amdt\",\"!!Not an FD!! [UP GIC 2017; UPPCS 2014; UPPCS 2015; UPPCS 2020; UPPCS 2021; UP RO 2023]\"],\n[\"41\",\"**Right to work**, education, public assistance in unemployment, old age, sickness\",\"MGNREGA and NSAP rest here in principle (right to work) — but the UPPSC item “MGNREGA implements which Article” was keyed **Art 43** (twice), so mark 43 there; A–R: MGNREGA gives 100 days (A true), right to employment in Part III (R false) [UP UDA 2010; UP Lower 2009; UP Lower M 2013] · 41 ↔ right to work [UPPCS 2015]\"],\n[\"42\",\"Just & humane conditions of work; **maternity relief**\",\"42 ↔ humane conditions of work [UPPCS 2015]\"],\n[\"43\",\"**Living wage**, decent standard of life; **cottage industries** (individual/co-op, rural)\",\"MGNREGA item keyed **Art 43** [UP UDA 2010; UP Lower 2009] (its right-to-work basis is Art 41)\"],\n[\"43A\",\"**Workers’ participation in management of industries** (**42nd**)\",\"[CSE 2017; UPPCS 2019; UP Lower 2009] — !!not local self-government!! [CAPF 2019]\"],\n[\"43B\",\"Promotion of **co-operative societies** (**97th**, 2011)\",\"!!Not 43A!! [UPPCS 2021, 2019]\"],\n[\"44\",\"**Uniform Civil Code** — original text, !!not added by the 42nd!!; Goa (Portuguese Civil Code) was the only State with a common civil code when asked; Uttarakhand UCC in force 27 Jan 2025\",\"[UPPCS 1998; UPPCS 2020; UPPCS M 2009; UPPCS M 2010; UP GIC 2010]\"],\n[\"45\",\"Early childhood care & education **below 6** (substituted by **86th**; earlier: free & compulsory education to 14 [UPPCS 2015])\",\"Free education up to 14 is now **Art 21A**, !!not a DPSP!! [UP UDA 2010; UP Lower 2013]\"],\n[\"46\",\"Educational & economic interests of **SC/ST** and weaker sections\",\"[UPPCS 2021]\"],\n[\"47\",\"Nutrition, standard of living, public health; **prohibition** of intoxicating drinks & drugs\",\"Prohibition of liquor is a DPSP [UPPCS M 2002]\"],\n[\"48\",\"Organise **agriculture & animal husbandry**; cow slaughter\",\"!!Not separation of judiciary!! (that is Art 50) [UPPCS 2013; UPPCS 2020]\"],\n[\"48A\",\"Protect & improve **environment**, forests, wildlife (**42nd**)\",\"Also FD 51A(g) → in **both** DPSP and FD [UPPCS 2019; UPPCS 2023; UPPCS M 2009]\"],\n[\"49\",\"**Monuments** & places of national importance\",\"DPSP, !!not an FD!! [UPPCS 2022; UPPCS M 2007]\"],\n[\"50\",\"**Separation of judiciary** from executive — implemented through **CrPC 1973**\",\"[CSE 2020; CSE 2025; UPPCS 2020, 2021]\"],\n[\"51\",\"International peace & security; honourable relations; respect for international law & treaties (51(c)); **arbitration**\",\"Foreign-policy Article; !!no mention of UN peacekeeping!! [UPPCS 2016; UPPCS M 2017; CDS 2023]\"],"
+ },
+ {
+  "id": "E05",
+  "item": 3,
+  "pair": "(same pair as E04 — thematic side)",
+  "note": "",
+  "old": "**Part IV-A, Art 51A** [UPPCS 2012; UPPCS Spl M 2008; UPPCS 2015; UP GIC 2010; UPPCS M 2006, 2011, 2012; UPPCS 1993; UP Lower 2002, 2003]",
+  "new": "**Part IV-A, Art 51A** — !!not Part VI-A!! [UPPCS 2012; UPPCS Spl M 2008; UPPCS 2015; UP GIC 2010; UPPCS M 2006, 2007, 2011, 2012; UPPCS 1993; UP Lower 2002, 2003, 2004]"
+ },
+ {
+  "id": "E49",
+  "item": 3,
+  "pair": "(Art 54 — thematic side)",
+  "note": "",
+  "old": "(70th Amdt 1992) [UPPCS M 2015; UP RO 2017]",
+  "new": "(70th Amdt 1992) [UPPCS M 2005, 2011, 2015; UP RO 2017; UP Lower 2002]"
+ },
+ {
+  "id": "E52",
+  "item": 3,
+  "pair": "(Art 59 — thematic side)",
+  "note": "",
+  "old": "**vacates the seat on the date he enters office** [UPPCS Spl M 2008; UPPCS M 2008]",
+  "new": "**vacates the seat on the date he enters office** [UPPCS Spl M 2008; UPPCS M 2008; UPPCS 2024]"
+ },
+ {
+  "id": "E54",
+  "item": 3,
+  "pair": "(Art 61 — thematic side)",
+  "note": "",
+  "old": "never used [UPPCS 2015; UPPCS M 2017; UPPCS M 2007, 2008; UPPCS 2014]",
+  "new": "never used [UPPCS 2015; UPPCS M 2017; UPPCS M 2007, 2008; UPPCS 2014; UPPCS 2020]"
+ },
+ {
+  "id": "K5",
+  "item": 4,
+  "pair": "Union Executive › Veto, assent & advice — 2 lines restating “no time limit for assent” (CSE 2023 ×2)",
+  "note": "both CSE 2023 tags kept (two statements, possibly two items)",
+  "old": "\"Vetoes: **absolute** (withhold) · **suspensive** (return once — !!not for Money Bills!!; bound if re-passed) · **pocket** (no time limit in the Constitution) — !!no qualified veto in India!! [CSE 2023]\",\n\"Constitution prescribes **no time limit** for the President’s assent [CSE 2023]\",",
+  "new": "\"Vetoes: **absolute** (withhold) · **suspensive** (return once — !!not for Money Bills!!; bound if re-passed) · **pocket** — the Constitution prescribes **no time limit** for the President’s assent [CSE 2023] — !!no qualified veto in India!! [CSE 2023]\","
+ },
+ {
+  "id": "E79",
+  "item": 3,
+  "pair": "(Money Bill cannot be returned — thematic side)",
+  "note": "",
+  "old": "(Money Bills cannot be returned) [UPPCS M 2007]",
+  "new": "(Money Bills cannot be returned) [UPPCS M 2007, 2016]"
+ },
+ {
+  "id": "E56",
+  "item": 3,
+  "pair": "(Art 67(b) — thematic side)",
+  "note": "",
+  "old": "!!not impeachment!! [UPPCS M 2013; UPPCS M 2003, 2004, 2007; UPPCS M 2005]",
+  "new": "!!not impeachment!! [UPPCS M 2013; UPPCS M 2003, 2004, 2007; UPPCS M 2005; UPPCS 2020]"
+ },
+ {
+  "id": "E59",
+  "item": 3,
+  "pair": "(Arts 74–75 — thematic side)",
+  "note": "",
+  "old": "a constitutional obligation [UP UDA 2001; UPPCS M 2012]",
+  "new": "a constitutional obligation [UP UDA 2001; UPPCS M 2012, 2015; UPPCS 2010; UP Lower 2002]"
+ },
+ {
+  "id": "E60",
+  "item": 3,
+  "pair": "(75(1A) — thematic side)",
+  "note": "",
+  "old": "disqualified defectors cannot be ministers (75(1B)) [CSE 2009, 2022; UPPCS 2020]",
+  "new": "disqualified defectors cannot be ministers (75(1B)) [CSE 2009, 2022; UPPCS 2020, 2021]"
+ },
+ {
+  "id": "E09",
+  "item": 3,
+  "pair": "(AG — thematic side)",
+  "note": "",
+  "old": "first law officer; chief legal adviser to GoI [UPPCS 2020; UPPCS 1995; UP UDA 2010]",
+  "new": "first law officer; chief legal adviser to GoI [UPPCS 2023, 2020; UPPCS 1995; UPPCS M 2015; UP UDA 2010]"
+ },
+ {
+  "id": "E140",
+  "item": 3,
+  "pair": "(Art 330 — thematic side)",
+  "note": "",
+  "old": "no ST seats in Kerala & Tamil Nadu (UPPSC key) [UPPCS 1997; UPPCS M 2005; UPPCS 1998]",
+  "new": "no ST seats in Kerala & Tamil Nadu (UPPSC key) [UPPCS 1997; UPPCS M 2005; UPPCS 1998; UP Lower 2015; UP GIC 2010]"
+ },
+ {
+  "id": "E69",
+  "item": 3,
+  "pair": "(Art 94 — thematic side)",
+  "note": "",
+  "old": "after **14 days’ notice** [CSE 2025; UPPCS 2007; UPPCS M 2008]",
+  "new": "after **14 days’ notice** [CSE 2025; UPPCS 2007, 2020; UPPCS M 2008]"
+ },
+ {
+  "id": "E67",
+  "item": 3,
+  "pair": "(Art 90 — thematic side)",
+  "note": "",
+  "old": "only the Chairman is [CSE 2013]",
+  "new": "only the Chairman is [CSE 2013; UPPCS 2020]"
+ },
+ {
+  "id": "E70",
+  "item": 3,
+  "pair": "Art 98 (Articles › Part V) ↔ Parliament › “Secretariat (Art 98)…”",
+  "note": "",
+  "old": "Parliament regulates recruitment & conditions — both correct [UPPCS 2023]",
+  "new": "Parliament regulates recruitment & conditions — both correct [UPPCS 2023; UP RO 2023]"
+ },
+ {
+  "id": "E82",
+  "item": 3,
+  "pair": "(Art 117 — thematic side)",
+  "note": "",
+  "old": "Financial Bills in **Art 117** [CSE 2024; UP UDA M 2010]",
+  "new": "Financial Bills in **Art 117** [CSE 2024; UP UDA 2010; UP UDA M 2010]"
+ },
+ {
+  "id": "K6",
+  "item": 4,
+  "pair": "Parliament › Money Bill & Financial Bills — 2 lines restating “LS may accept or reject RS recommendations” (CSE 2013; UPPCS 1992, 2006, 2016, 1994)",
+  "note": "",
+  "old": "\"RS must return within **14 days**, else deemed passed; LS may accept or reject RS recommendations; A–R: LS must accept RS recommendations within 14 days (A false), Money Bill not introduced in RS (R true) [UPPCS 1992, 2006, 2016; UPPCS 1994]\",\n\"If the RS substantially amends a Money Bill :: LS may proceed, **accepting or not** the recommendations [CSE 2013]\",",
+  "new": "\"RS must return within **14 days**, else deemed passed; LS may accept or reject RS recommendations — if the RS substantially amends a Money Bill, the LS may proceed, **accepting or not** the recommendations [CSE 2013]; A–R: LS must accept RS recommendations within 14 days (A false), Money Bill not introduced in RS (R true) [UPPCS 1992, 2006, 2016; UPPCS 1994]\","
+ },
+ {
+  "id": "E155",
+  "item": 3,
+  "pair": "(Tenth Schedule — thematic side)",
+  "note": "",
+  "old": "\"Anti-defection law is in the **Tenth Schedule** [CSE 2014; UP Lower M 2013]\"",
+  "new": "\"Anti-defection law is in the **Tenth Schedule** [CSE 2014; UP Lower M 2013; UP Lower 2013]\""
+ },
+ {
+  "id": "E96",
+  "item": 3,
+  "pair": "Art 155 (Articles › Part VI) ↔ State › “Art 154 … Art 155 appointment … !!155 is not removal!!”",
+  "note": "",
+  "old": "“**extension of executive power of State**”) [UPPCS 2024; UPPCS 2015; UPPCS 2019; UPPCS M 2007]",
+  "new": "“**extension of executive power of State**”) [UPPCS 2024; UPPCS 2015; UPPCS 2019; UPPCS M 2007; UP Lower 2002]"
+ },
+ {
+  "id": "E100",
+  "item": 3,
+  "pair": "(Art 164 — thematic side)",
+  "note": "",
+  "old": "CM is “selected by the Governor” normally ✘ [UP UDA 2010; UP UDA M 2010]",
+  "new": "CM is “selected by the Governor” normally ✘ [UP UDA 2010; UP UDA M 2010; UP Lower 2002; UPPCS M 2005, 2011]"
+ },
+ {
+  "id": "E89",
+  "item": 3,
+  "pair": "(Art 131 — thematic side)",
+  "note": "",
+  "old": "the power to decide Centre–State disputes is **original** jurisdiction [CSE 2014; CSE 2012; UPPCS 1995]",
+  "new": "the power to decide Centre–State disputes is **original** jurisdiction [CSE 2014; CSE 2012; UPPCS 1995; UPPCS M 2015]"
+ },
+ {
+  "id": "K7a",
+  "item": 4,
+  "pair": "Judiciary › SC jurisdiction & powers — 2 lines restating “writs / FR enforcement not exclusive to the SC” (UPPCS M 2017; UP Lower 2004; UPPCS M 2006)",
+  "note": "",
+  "old": "\"**Writ jurisdiction (32)** — original but !!not exclusive!! (HCs under 226); SC’s exclusive power to issue writs ✘ [UPPCS M 2017]\",",
+  "new": "\"**Writ jurisdiction (32)** — original but !!not exclusive!! (HCs under 226): enforcement of FRs lies in **both** SC and HCs [UP Lower 2004; UPPCS M 2006]; SC’s exclusive power to issue writs ✘ [UPPCS M 2017]\","
+ },
+ {
+  "id": "K7b",
+  "item": 4,
+  "pair": "(K7 — second line folded into the first)",
+  "note": "",
+  "old": "\n\"Enforcement of FRs lies in **both** SC and HCs [UP Lower 2004; UPPCS M 2006]\",",
+  "new": ""
+ },
+ {
+  "id": "E86",
+  "item": 3,
+  "pair": "(ad hoc judges — thematic side)",
+  "note": "",
+  "old": "**ad hoc judges** — in the Supreme Court [UPPCS M 2004]",
+  "new": "**ad hoc judges** — in the Supreme Court [UPPCS M 2004; UP GIC 2010]"
+ },
+ {
+  "id": "E16",
+  "item": 3,
+  "pair": "Tribunals, Part XIV-A (Articles › Parts, Part XI–XIV-A, trap set) ↔ Judiciary › Tribunals “Part XIV-A…”",
+  "note": "",
+  "old": "by Parliament **or State legislature** [CDS 2019]",
+  "new": "by Parliament **or State legislature** [CDS 2019; UPPCS 2023, 2020, 2016; UP RO 2016; UP Lower 2015]"
+ },
+ {
+  "id": "E153",
+  "item": 3,
+  "pair": "(Seventh Schedule — thematic side)",
+  "note": "",
+  "old": "+ **Seventh Schedule** (Union, State, Concurrent lists) [UP UDA 2001; UPPCS 1993; UP Lower 2008]",
+  "new": "+ **Seventh Schedule** (Union, State, Concurrent lists) [UP UDA 2001; UPPCS 1993; UP Lower 2008; UP RO M 2021]"
+ },
+ {
+  "id": "E159",
+  "item": 3,
+  "pair": "(Concurrent List — thematic side)",
+  "note": "",
+  "old": "e.g. economic & social planning, infants & minors [UP UDA 2006; UP BEO 2019]",
+  "new": "e.g. economic & social planning, infants & minors [UP UDA 2006; UP BEO 2019; CSE 2013]"
+ },
+ {
+  "id": "E130",
+  "item": 3,
+  "pair": "Art 312 AIS (Articles › Parts XI–XIV-A) ↔ Federalism › “All-India Services (Art 312)…”",
+  "note": "",
+  "old": "— IAS, IPS, IFoS [UPPCS M 2012; UP RI 2014]",
+  "new": "— IAS, IPS, IFoS [UPPCS M 2012; UP RI 2014; UPPCS 2025, 2018, 2016]"
+ },
+ {
+  "id": "E21",
+  "item": 3,
+  "pair": "Part XVIII (Articles › Parts) ↔ Federalism › “Three types of emergency…; Part XVIII”",
+  "note": "",
+  "old": "\"Three types of emergency in the Constitution [UPPCS M 2009, 2014]; Part **XVIII** (352–360)\"",
+  "new": "\"Three types of emergency in the Constitution [UPPCS M 2009, 2014]; Part **XVIII** (352–360) [UPPCS M 2013; UP RO M 2013; CSE 2024]\""
+ },
+ {
+  "id": "E11",
+  "item": 3,
+  "pair": "Part IX (Articles › Parts) ↔ Local Govt › 73rd vs 74th “Part · Articles”",
+  "note": "",
+  "old": "\"**Part IX**, 243–243O [UPPCS 2013; UPPCS 2016; UPPCS 2020]\"",
+  "new": "\"**Part IX**, 243–243O [UPPCS 2013; UPPCS 2016; UPPCS 2020; UP Lower 2013]\""
+ },
+ {
+  "id": "E13",
+  "item": 3,
+  "pair": "(Part IX-A — thematic side)",
+  "note": "",
+  "old": "\"**Part IX-A**, 243P–243ZG [UP Lower M 2015; UP RO M 2021]\"",
+  "new": "\"**Part IX-A**, 243P–243ZG [UP Lower 2015; UP Lower M 2015; UPPCS M 2009; UP RO M 2021; CSE 2024]\""
+ },
+ {
+  "id": "K8a",
+  "item": 4,
+  "pair": "Local Govt › Rapid PRI facts — 2 lines restating the 73rd Amdt’s commencement (UPPCS 2020, 2024; UPPCS M 2012)",
+  "note": "",
+  "old": "\"Third tier of government added — Act **1992**, in force **1993** (UPPCS 2020 keyed 1993) [UPPCS 2020; UPPCS 2024]\",",
+  "new": "\"Third tier of government added (73rd Amdt) — Act **1992**, in force **24 Apr 1993** (UPPCS 2020 keyed 1993) [UPPCS 2020; UPPCS 2024]; “15 Aug 1993” is wrong [UPPCS M 2012]\","
+ },
+ {
+  "id": "K8b",
+  "item": 4,
+  "pair": "(K8a — second line folded into the first)",
+  "note": "",
+  "old": "\n\"73rd came into effect on 24 Apr 1993 — “15 Aug 1993” is wrong [UPPCS M 2012]\",",
+  "new": ""
+ },
+ {
+  "id": "K9",
+  "item": 4,
+  "pair": "Local Govt › Rapid PRI facts — 2 lines restating “Panchayati Raj = democratic decentralisation” (UPPCS 2016; CSE 2015; UPPCS M 2004; CSE 2017; UPPCS Spl M 2008; UPPCS M 2013)",
+  "note": "",
+  "old": "\"Panchayati Raj adopted to **decentralise** power; aims: people’s participation in development and democratic decentralisation — !!not political accountability or financial mobilisation as the core!! [UPPCS 2016; CSE 2015; UPPCS M 2004]\",\n\"Local self-government is best explained as :: **democratic decentralisation** [CSE 2017]; attribute not of local government: central control [UPPCS Spl M 2008]; PR relates to “grass-roots democracy” [UPPCS M 2013]\",",
+  "new": "\"Local self-government / Panchayati Raj is best explained as :: **democratic decentralisation** [CSE 2017] — PR was adopted to **decentralise** power; aims: people’s participation in development and democratic decentralisation — !!not political accountability or financial mobilisation as the core!! [UPPCS 2016; CSE 2015; UPPCS M 2004]; attribute not of local government: central control [UPPCS Spl M 2008]; PR relates to “grass-roots democracy” [UPPCS M 2013]\","
+ },
+ {
+  "id": "E127",
+  "item": 3,
+  "pair": "(Art 280 — thematic side)",
+  "note": "",
+  "old": "quasi-judicial character [UPPCS 2023; UP RO M 2021; UPPCS 2024; UPPCS 2021]",
+  "new": "quasi-judicial character [UPPCS 2023; UP RO M 2021; UPPCS 2024; UPPCS 2021; UPPCS 2020; UPPCS 2016]"
+ },
+ {
+  "id": "K10a",
+  "item": 4,
+  "pair": "Constitutional Bodies › Finance Commission — 2 lines restating the FC’s tax-distribution function (CSE 2012; UPPCS 1993, 2006; UP RO 2023; UP UDA 2002; UPPCS M 2008, 2010, 2011)",
+  "note": "",
+  "old": "\"Functions: distribution of net tax proceeds Centre–States (**vertical**) and among States (**horizontal**); principles of **grants-in-aid** (Art 275);",
+  "new": "\"Functions: distribution of net tax proceeds Centre–States (**vertical**) and among States (**horizontal**) — appointed every 5 years to determine States’ shares [UP RO 2023; UP UDA 2002; UPPCS M 2008, 2010, 2011]; principles of **grants-in-aid** (Art 275);"
+ },
+ {
+  "id": "K10b",
+  "item": 4,
+  "pair": "(K10 — second line folded into the first; also removes its “UPPCS:” label, which covered RO and UDA papers)",
+  "note": "",
+  "old": ",\n\"UPPCS: FC distributes taxes between Centre and States; appointed every 5 years to determine States’ shares [UP RO 2023; UP UDA 2002; UPPCS M 2008, 2010, 2011]\"]},",
+  "new": "]},"
+ },
+ {
+  "id": "E136",
+  "item": 3,
+  "pair": "(Art 324 — thematic side)",
+  "note": "",
+  "old": "elections to **Parliament, State legislatures, President and VP** [UPPCS 2016; UPPCS M 2010, 2017; UP UDA 2001; CDS 2015]",
+  "new": "elections to **Parliament, State legislatures, President and VP** [UPPCS 2016, 2023, 2024; UPPCS M 2010, 2017; UP UDA 2001; UP Lower 2015; CDS 2015]"
+ },
+ {
+  "id": "E132",
+  "item": 3,
+  "pair": "(Art 315 — thematic side)",
+  "note": "UPPCS 2022 not copied: it is the Joint-PSC item, which Const. Bodies already tags",
+  "old": "(Art 315) — !!not Art 324!! [UPPCS M 2014; UPPCS 2020]",
+  "new": "(Art 315) — !!not Art 324!! [UPPCS M 2014; UPPCS 2020, 2023, 2016]"
+ },
+ {
+  "id": "E94",
+  "item": 3,
+  "pair": "(Art 148 — thematic side)",
+  "note": "",
+  "old": "appointed by the **President** [UPPCS 2012; UP UDA 2001; UP Lower 2015]",
+  "new": "appointed by the **President** [UPPCS 2012; UP UDA 2001; UP Lower 2015; UPPCS 2024; UPPCS 2016; UPPCS M 2015]"
+ },
+ {
+  "id": "E20",
+  "item": 3,
+  "pair": "Part XV (Articles › Parts) ↔ Elections › “Part XV — elections”",
+  "note": "",
+  "old": "\"Part **XV** — elections [UP RO 2023]\"",
+  "new": "\"Part **XV** — elections [UP RO 2023; UP RO M 2013]\""
+ },
+ {
+  "id": "K11",
+  "item": 4,
+  "pair": "Amendments › Article 368 — 2 lines restating “ratification by half the States” (CSE 2025; UPPCS 2004; CSE 2013)",
+  "note": "",
+  "old": "**conditions of the Governor’s office do not** [CSE 2025; UPPCS 2004]\",\n\"Changes to the federal character need ratification by **half** the States — !!not all States!! [CSE 2013]\",",
+  "new": "**conditions of the Governor’s office do not** [CSE 2025; UPPCS 2004]; changes to the federal character need ratification by **half** the States — !!not all States!! [CSE 2013]\","
+ },
+ {
+  "id": "U2",
+  "item": 6,
+  "pair": "Articles › stats — Mains is UPPCS; RO/ARO and Lower are other UPPSC exams (legend)",
+  "note": "",
+  "old": "\"UPPCS Mains, RO/ARO, Lower: pure Article-number matching sets\"",
+  "new": "\"UPPCS Mains · UPPSC RO/ARO & Lower: pure Article-number matching sets\""
+ },
+ {
+  "id": "E01",
+  "item": 3,
+  "pair": "Part II = citizenship (Articles › Parts) ↔ Union › “Citizenship is in Part II”",
+  "note": "",
+  "old": "[\"II\",\"**Citizenship**\",\"5–11\",\"[UPPCS 2018; UP UDA 2010]\"]",
+  "new": "[\"II\",\"**Citizenship**\",\"5–11\",\"!!Not Part III!! [UPPCS 2018; UPPCS 2020; UP UDA 2010]\"]"
+ },
+ {
+  "id": "E03",
+  "item": 3,
+  "pair": "Part IV welfare State & Art 51 (Articles › Parts) ↔ DPSP › “Ideal of Welfare State” & “International peace and security”",
+  "note": "",
+  "old": "\"36–51\",\"“Welfare State” model [UP Lower 2013; UPPCS M 2004]; international peace (Art 51) [UPPCS M 2017]\"",
+  "new": "\"36–51\",\"“Welfare State” model [CSE 2015, 2020; UP Lower 2004; UP Lower 2013; UPPCS M 2004]; international peace (Art 51) [CSE 2014; UPPCS M 2017; UPPCS 2016]\""
+ },
+ {
+  "id": "E04",
+  "item": 3,
+  "pair": "Part IV-A FDs (Articles › Parts) ↔ DPSP › FD basics “Added by the 42nd…”",
+  "note": "",
+  "old": "\"51A\",\"42nd, 1976 — !!not Part VI-A!! [UP Lower 2004; UPPCS M 2007, 2006, 2011, 2012; UP GIC 2010]\"",
+  "new": "\"51A\",\"42nd, 1976 (Swaran Singh Committee; in force 3 Jan 1977) — !!not Part VI-A!! [UPPCS 2012; UPPCS Spl M 2008; UPPCS 2015; UP GIC 2010; UPPCS M 2006, 2007, 2011, 2012; UPPCS 1993; UP Lower 2002, 2003, 2004]\""
+ },
+ {
+  "id": "E06",
+  "item": 3,
+  "pair": "AG is Art 76, Part V (Articles › Parts row V) ↔ Union Executive › AG table “Status”",
+  "note": "",
+  "old": "\"52–151\",\"**AG (Art 76) sits here** [UPPCS 2020]\"",
+  "new": "\"52–151\",\"**AG (Art 76) sits here** — !!not Part XIII!! [UPPCS 2023, 2020; UPPCS 1995; UPPCS M 2015; UP UDA 2010]\""
+ },
+ {
+  "id": "E12",
+  "item": 3,
+  "pair": "Part IX-A (Articles › Parts) ↔ Local Govt › 73rd vs 74th “Part · Articles”",
+  "note": "",
+  "old": "\"74th [UP Lower 2015; UPPCS M 2009; CSE 2024]\"",
+  "new": "\"74th [UP Lower 2015; UP Lower M 2015; UPPCS M 2009; UP RO M 2021; CSE 2024]\""
+ },
+ {
+  "id": "E14",
+  "item": 3,
+  "pair": "Part XI Ch I (Articles › Parts) ↔ Federalism › “Part XI, Chapter I”",
+  "note": "",
+  "old": "— !!not tribunals!! [UPPCS M 2012; UPPCS 2023; UP RO 2014]",
+  "new": "— !!not tribunals!! [UPPCS M 2012; UPPCS Spl M 2004; UPPCS 2023; UP RO 2014]"
+ },
+ {
+  "id": "E07",
+  "item": 3,
+  "pair": "AG not Part XIII (Articles › Parts row XIII) ↔ Union Executive › AG “Status”",
+  "note": "",
+  "old": "\"301–307\",\"!!Not AG!! [UPPCS 2020]\"",
+  "new": "\"301–307\",\"!!Not AG!! (AG is Art 76, Part V) [UPPCS 2023, 2020; UPPCS 1995; UPPCS M 2015; UP UDA 2010]\""
+ },
+ {
+  "id": "E17",
+  "item": 3,
+  "pair": "(Tribunals — Articles › Parts row XIV-A)",
+  "note": "",
+  "old": "\"323A–323B\",\"42nd [UPPCS 2023; UP RO 2016]\"",
+  "new": "\"323A–323B\",\"42nd [UPPCS 2023; UP RO 2016; CDS 2019]\""
+ },
+ {
+  "id": "E22",
+  "item": 3,
+  "pair": "Art 394A Hindi text (Articles › Parts row XXII) ↔ Making › “Authoritative Hindi text…”",
+  "note": "",
+  "old": "\"393–395\",\"394A authoritative Hindi text (58th)\"",
+  "new": "\"393–395\",\"394A authoritative **Hindi text** (58th Amendment 1987) [UP RO 2016]\""
+ },
+ {
+  "id": "E23",
+  "item": 3,
+  "pair": "Original 22 Parts / 395 Articles / 8 Schedules (Articles › Counts) ↔ Making › “Lengthiest written Constitution…”",
+  "note": "",
+  "old": ":: **22 Parts** [UPPCS M 2012; UPPCS Spl M 2008]",
+  "new": ":: **22 Parts** [UPPCS M 2012; UPPCS Spl M 2008; UP Lower M 2015]"
+ },
+ {
+  "id": "E15",
+  "item": 3,
+  "pair": "Part XI Ch I (Articles › Counts) ↔ Federalism › “Part XI, Chapter I”",
+  "note": "",
+  "old": ":: “Part XI, Chapter I” [UPPCS M 2012] ·",
+  "new": ":: “Part XI, Chapter I” [UPPCS M 2012; UPPCS Spl M 2004; UP RO 2014] ·"
+ },
+ {
+  "id": "E25",
+  "item": 3,
+  "pair": "Art 1 (Articles › Part I–II) ↔ Union › “Art 1: … Union of States”",
+  "note": "",
+  "old": "\"Union ≠ federation of States; no right to secede\"]",
+  "new": "\"Preferred to “federation” — the federation is !!not the result of an agreement among States!!; States have **no right to secede** [UPPCS 2008; UPPCS 2019; CSE 2017]\"]"
+ },
+ {
+  "id": "E27",
+  "item": 3,
+  "pair": "Art 3 (Articles › Part I–II) ↔ Union › Art 3 power, Art 3 procedure, “Altering a State’s name…”",
+  "note": "",
+  "old": "State legislature’s views **not binding** [UPPCS 2024, 2023, 2020]\"]",
+  "new": "State legislature’s views **not binding** [UPPCS 2024, 2023, 2020; UPPCS 1999]; power vests in **Parliament** [UPPCS M 2008, 2013, 2015; UPPCS 1990; UP RO M 2014]; altering a State’s name is !!not a power of the State legislature!! [UPPCS M 2006]\"]"
+ },
+ {
+  "id": "E28",
+  "item": 3,
+  "pair": "Art 4 (Articles › Part I–II) ↔ Union › “Art 4: … not amendments under Art 368”",
+  "note": "",
+  "old": "[\"4\",\"Laws under Arts 2 & 3 amend Schedules 1 & 4\",\"**Not** an amendment under Art 368\"]",
+  "new": "[\"4\",\"Laws under Arts 2 & 3 amend Schedules 1 & 4\",\"**Not** an amendment under Art 368 — passed by **simple majority** [UPPCS M 2011; UPPCS 2016; CDS 2014]\"]"
+ },
+ {
+  "id": "E02",
+  "item": 3,
+  "pair": "Arts 5–11 (Articles › Part I–II) ↔ Union › “Citizenship is in Part II, Arts 5–11”",
+  "note": "",
+  "old": "· **11 Parliament regulates** [UPPCS 2020, 2018]\"]",
+  "new": "· **11 Parliament regulates** [UPPCS 2020, 2018; UP UDA 2010]\"]"
+ },
+ {
+  "id": "E29",
+  "item": 3,
+  "pair": "Art 13 basis of judicial review (Articles › Part III) ↔ FR › “Art 13: laws inconsistent … void”",
+  "note": "",
+  "old": "\"13 = textual basis of judicial review; “law” includes",
+  "new": "\"13 = textual basis of judicial review [UPPCS 1999]; “law” includes"
+ },
+ {
+  "id": "E30",
+  "item": 3,
+  "pair": "Art 14 to all persons (Articles › Part III) ↔ FR › Arts 14–18 row 14 & Union › “Available to all persons…”",
+  "note": "",
+  "old": "\"**All persons** (citizens + foreigners) [UPPCS 2024; UPPCS 2010; UPPCS M 2016]\"",
+  "new": "\"**All persons** (citizens + foreigners) [UPPCS 2024; UPPCS 2010; UPPCS 2011; UPPCS M 2016]\""
+ },
+ {
+  "id": "E33",
+  "item": 3,
+  "pair": "Art 15 clauses (Articles › Part III) ↔ FR › Arts 14–18 row 15",
+  "note": "",
+  "old": "15(5) ← 93rd · 15(6) ← 103rd EWS\"]",
+  "new": "15(5) ← 93rd · 15(6) ← 103rd EWS [UPPCS 1997]\"]"
+ },
+ {
+  "id": "E34",
+  "item": 3,
+  "pair": "Art 16 (Articles › Part III) ↔ FR › Arts 14–18 row 16",
+  "note": "",
+  "old": "16(2) adds **descent, residence** [UPPCS 2024]\"]",
+  "new": "16(2) adds **descent, residence** [UPPCS 2024; UPPCS M 2009; UP RO 2023]\"]"
+ },
+ {
+  "id": "E36",
+  "item": 3,
+  "pair": "Art 17 = right to equality (Articles › Part III) ↔ FR › Arts 14–18 row 17",
+  "note": "",
+  "old": "\"Right to **equality** — !!not right against exploitation!! [UPPCS 2024]\"",
+  "new": "\"Category: **right to equality** — !!not right against exploitation!! [CSE 2020; UPPCS M 2003, 2013, 2015; UP RO 2017; UPPCS 1994; UPPCS 2024]\""
+ },
+ {
+  "id": "E38",
+  "item": 3,
+  "pair": "Art 20 no torture clause; non-suspendable (Articles › Part III) ↔ FR › “Art 20 has no clause on torture” & “Rights 20 and 21 cannot be suspended”",
+  "note": "",
+  "old": "\"!!No torture clause!! (torture is read into Art 21); non-suspendable [UPPCS 2023]\"",
+  "new": "\"!!No torture clause!! (torture is read into Art 21) [UPPCS 2023]; non-suspendable even in a National Emergency (44th) [UPPCS M 2008]\""
+ },
+ {
+  "id": "E39",
+  "item": 3,
+  "pair": "Art 21A / RTE (Articles › Part III) ↔ FR › “Art 21A (86th Amdt 2002)…”",
+  "note": "",
+  "old": "RTE Act in force 1 Apr 2010 [UPPCS 2022]\"]",
+  "new": "RTE Act in force 1 Apr 2010 [UPPCS 2022; UPPCS 2006; UPPCS M 2016]\"]"
+ },
+ {
+  "id": "E40",
+  "item": 3,
+  "pair": "Art 22 preventive detention (Articles › Part III) ↔ FR › “Preventive detention: beyond 3 months…”",
+  "note": "",
+  "old": "\"Preventive detention > **3 months** needs Advisory Board [UPPCS M 2016]\"",
+  "new": "\"Preventive detention > **3 months** needs Advisory Board [UPPCS M 2009, 2016; UP Lower 2013; JPSC 2021]\""
+ },
+ {
+  "id": "E42",
+  "item": 3,
+  "pair": "Arts 23–24 (Articles › Part III) ↔ FR › “Right against exploitation = Art 23 + Art 24”",
+  "note": "",
+  "old": "\"Right against exploitation [UPPCS 2024]\"]",
+  "new": "\"Right against exploitation [CSE 2017; UPPCS 2024]\"]"
+ },
+ {
+  "id": "E43",
+  "item": 3,
+  "pair": "“Hindu” in Art 25 (Articles › Part III) ↔ FR › “‘Hindu’ in Art 25 includes…”",
+  "note": "",
+  "old": "Buddhist — !!not Parsi!!; 26 matched",
+  "new": "Buddhist — !!not Parsi!! [UPPCS M 2014]; 26 matched"
+ },
+ {
+  "id": "E44",
+  "item": 3,
+  "pair": "Art 32 (Articles › Part III) ↔ FR › “Art 32 — heart and soul” & “32(3)… both statements correct”",
+  "note": "UPPCS 2023 moved next to 32(3), where FR › Art 32 places it",
+  "old": "\"Ambedkar: “**heart and soul**” [UPPCS 2023]; 32(3) Parliament may empower other courts\"]",
+  "new": "\"Ambedkar: “**heart and soul**” [UPPCS Spl M 2004; UP GIC 2010; UP UDA 2010; UPPCS 2016]; 32(3) Parliament may empower other courts [UPPCS 2023]\"]"
+ },
+ {
+  "id": "E45",
+  "item": 3,
+  "pair": "Arts 36–51 (Articles › Part IV table) ↔ DPSP › “Directive Principles — Article map” (rows made identical)",
+  "note": "",
+  "old": "[\"36 · 37\",\"Definition · non-justiciable yet “fundamental in governance”\",\"36 ↔ DPSP [UPPCS 2010]\"],\n[\"38 · 39\",\"Welfare social order · 39(b)(c) resources/concentration · 39(d) **equal pay** for men & women · 39(f) children (42nd)\",\"Equal pay = DPSP, !!not an FR!!\"],\n[\"39A\",\"Equal justice & **free legal aid**\",\"42nd [UPPCS 2020]\"],\n[\"40\",\"**Village panchayats** as units of self-government\",\"!!Not an FD!! [UPPCS 2021, 2020; UP RO 2023; UPPCS 2015]\"],\n[\"41 · 42\",\"Right to work, education, public assistance · just & humane conditions, maternity relief\",\"41 right to work, 42 humane conditions [UPPCS 2015]\"],\n[\"43 · 43A · 43B\",\"Living wage, cottage industries · **workers’ participation** (42nd) · **co-operative societies** (97th)\",\"MGNREGA item keyed **Art 43** [UP UDA 2010; UP Lower 2009] (its right-to-work basis is Art 41) · !!43B, not 43A, for co-operatives!! [UPPCS 2021, 2019]\"],\n[\"44\",\"Uniform Civil Code\",\"Original text [UPPCS 2020]; Goa has a common civil code; Uttarakhand UCC in force 27 Jan 2025\"],\n[\"45\",\"Early childhood care & education **below 6**\",\"Substituted by 86th; earlier “free & compulsory education” [UPPCS 2015]\"],\n[\"46\",\"Educational & economic interests of **SC/ST** & weaker sections\",\"[UPPCS 2021]\"],\n[\"47\",\"Nutrition, public health; prohibition of intoxicants\",\"\"],\n[\"48\",\"**Agriculture & animal husbandry**; cow slaughter\",\"!!Not separation of judiciary!! [UPPCS 2020; UPPCS 2013]\"],\n[\"48A\",\"Environment, forests, wildlife (42nd)\",\"Also FD 51A(g) → in **both** DPSP and FD [UPPCS 2023, 2019]\"],\n[\"49\",\"Monuments & places of national importance\",\"!!DPSP, not an FD!! [UPPCS 2022]\"],\n[\"50\",\"**Separation of judiciary** from executive\",\"[UPPCS 2021, 2020]\"],\n[\"51\",\"International peace & security; respect for international law\",\"[UPPCS M 2017]\"],\n[\"51A\",\"Fundamental Duties (**Part IV-A**)\",\"42nd (Swaran Singh); 11th duty 51A(k) by 86th\"]",
+  "new": "[\"36 · 37\",\"Definition of State (as Art 12) · non-justiciable yet “fundamental in governance”\",\"36 ↔ DPSP [UPPCS 2010]\"],\n[\"38\",\"Welfare — social order securing justice; **38(2)** minimise inequalities of income, status, facilities (**44th**)\",\"\"],\n[\"39\",\"(a) adequate livelihood · (b) resources for common good · (c) **no concentration of wealth** · (d) **equal pay for equal work** for men & women · (e) health of workers, children · (f) healthy development of children (**42nd**)\",\"Equal pay = DPSP, !!not an FR!! [UP Lower 2004; UPPCS 1998; UP UDA 2010; UPPCS M 2012; UPPCS M 2014]\"],\n[\"39A\",\"**Equal justice & free legal aid** (**42nd**) → Legal Services Authorities Act 1987\",\"Added later [UP RO 2014; UPPCS 2020]\"],\n[\"40\",\"Organise **village panchayats** as units of self-government (Gandhian) → 73rd Amdt\",\"!!Not an FD!! [UP GIC 2017; UPPCS 2014; UPPCS 2015; UPPCS 2020; UPPCS 2021; UP RO 2023]\"],\n[\"41\",\"**Right to work**, education, public assistance in unemployment, old age, sickness\",\"MGNREGA and NSAP rest here in principle (right to work) — but the UPPSC item “MGNREGA implements which Article” was keyed **Art 43** (twice), so mark 43 there; A–R: MGNREGA gives 100 days (A true), right to employment in Part III (R false) [UP UDA 2010; UP Lower 2009; UP Lower M 2013] · 41 ↔ right to work [UPPCS 2015]\"],\n[\"42\",\"Just & humane conditions of work; **maternity relief**\",\"42 ↔ humane conditions of work [UPPCS 2015]\"],\n[\"43\",\"**Living wage**, decent standard of life; **cottage industries** (individual/co-op, rural)\",\"MGNREGA item keyed **Art 43** [UP UDA 2010; UP Lower 2009] (its right-to-work basis is Art 41)\"],\n[\"43A\",\"**Workers’ participation in management of industries** (**42nd**)\",\"[CSE 2017; UPPCS 2019; UP Lower 2009] — !!not local self-government!! [CAPF 2019]\"],\n[\"43B\",\"Promotion of **co-operative societies** (**97th**, 2011)\",\"!!Not 43A!! [UPPCS 2021, 2019]\"],\n[\"44\",\"**Uniform Civil Code** — original text, !!not added by the 42nd!!; Goa (Portuguese Civil Code) was the only State with a common civil code when asked; Uttarakhand UCC in force 27 Jan 2025\",\"[UPPCS 1998; UPPCS 2020; UPPCS M 2009; UPPCS M 2010; UP GIC 2010]\"],\n[\"45\",\"Early childhood care & education **below 6** (substituted by **86th**; earlier: free & compulsory education to 14 [UPPCS 2015])\",\"Free education up to 14 is now **Art 21A**, !!not a DPSP!! [UP UDA 2010; UP Lower 2013]\"],\n[\"46\",\"Educational & economic interests of **SC/ST** and weaker sections\",\"[UPPCS 2021]\"],\n[\"47\",\"Nutrition, standard of living, public health; **prohibition** of intoxicating drinks & drugs\",\"Prohibition of liquor is a DPSP [UPPCS M 2002]\"],\n[\"48\",\"Organise **agriculture & animal husbandry**; cow slaughter\",\"!!Not separation of judiciary!! (that is Art 50) [UPPCS 2013; UPPCS 2020]\"],\n[\"48A\",\"Protect & improve **environment**, forests, wildlife (**42nd**)\",\"Also FD 51A(g) → in **both** DPSP and FD [UPPCS 2019; UPPCS 2023; UPPCS M 2009]\"],\n[\"49\",\"**Monuments** & places of national importance\",\"DPSP, !!not an FD!! [UPPCS 2022; UPPCS M 2007]\"],\n[\"50\",\"**Separation of judiciary** from executive — implemented through **CrPC 1973**\",\"[CSE 2020; CSE 2025; UPPCS 2020, 2021]\"],\n[\"51\",\"International peace & security; honourable relations; respect for international law & treaties (51(c)); **arbitration**\",\"Foreign-policy Article; !!no mention of UN peacekeeping!! [UPPCS 2016; UPPCS M 2017; CDS 2023]\"],\n[\"51A\",\"Fundamental Duties (**Part IV-A**)\",\"42nd (Swaran Singh); 11th duty 51A(k) by 86th [UPPCS M 2014; UP RO M 2014]\"]"
+ },
+ {
+  "id": "E47",
+  "item": 3,
+  "pair": "Arts 52–53 (Articles › Part V) ↔ Union Executive › “Executive power … vested in the President (Art 53)”, “…not the PM”, powers “Military”",
+  "note": "",
+  "old": "[\"52 · 53\",\"President · executive power vested in President\",\"53(2): supreme command **regulated by law**\"]",
+  "new": "[\"52 · 53\",\"President · executive power vested in President (!!not the PM!!) [UPPCS M 2008, 2010; UPPCS 2015; UP RO 2023; UP GIC 2010; CSE 2015]\",\"53(2): supreme command **regulated by law** [UPPCS M 2005, 2010]\"]"
+ },
+ {
+  "id": "E48",
+  "item": 3,
+  "pair": "Art 54 (Articles › Part V) ↔ Union Executive › “Indirect election (Art 54)…”",
+  "note": "",
+  "old": "\"54 ↔ election of President [UP Lower 2002; UPPCS M 2005, 2011]\"]",
+  "new": "\"54 ↔ election of President — indirect, by an electoral college [UP Lower 2002; UPPCS M 2005, 2011, 2015; UP RO 2017]\"]"
+ },
+ {
+  "id": "E50",
+  "item": 3,
+  "pair": "Arts 56–58 (Articles › Part V) ↔ Union Executive › “Qualifications (Art 58)…”",
+  "note": "",
+  "old": "\"Term 5 yrs (resigns to VP) · re-election · qualifications (35, citizen, qualified for LS)\",\"\"]",
+  "new": "\"Term 5 yrs (resigns to VP) · re-election · qualifications (35, citizen, qualified for LS) [UP Lower 1998; UPPCS 1992]\",\"\"]"
+ },
+ {
+  "id": "E51",
+  "item": 3,
+  "pair": "Art 59 (Articles › Part V) ↔ Union Executive › “Art 59: not a member of any legislature…”",
+  "note": "",
+  "old": "[\"59\",\"Conditions of office — not a member of any House/legislature\",\"[UPPCS 2024]\"]",
+  "new": "[\"59\",\"Conditions of office — not a member of any House/legislature; an MP/MLA elected President vacates the seat on the date he enters office\",\"[UPPCS 2024; UPPCS Spl M 2008; UPPCS M 2008]\"]"
+ },
+ {
+  "id": "E53",
+  "item": 3,
+  "pair": "Art 61 impeachment (Articles › Part V) ↔ Union Executive › “Impeachment (Art 61)…”",
+  "note": "",
+  "old": "\"14 days’ notice signed by ¼ members; 2/3 of **total membership** [UPPCS 2020]\"",
+  "new": "\"For “violation of the Constitution”: 14 days’ notice signed by ¼ members; 2/3 of **total membership** [UPPCS 2020; UPPCS 2014, 2015; UPPCS M 2007, 2008, 2017]\""
+ },
+ {
+  "id": "E55",
+  "item": 3,
+  "pair": "Art 67(b) VP removal (Articles › Part V) ↔ Union Executive › VP “Removal (Art 67(b))…”",
+  "note": "",
+  "old": "\"!!Not impeachment!! [UPPCS 2020]\"]",
+  "new": "\"!!Not impeachment!! [UPPCS 2020; UPPCS M 2003, 2004, 2005, 2007, 2013]\"]"
+ },
+ {
+  "id": "E57",
+  "item": 3,
+  "pair": "Art 71 (Articles › Part V) ↔ Union Executive › President “Disputes decided only by the SC (Art 71)…”",
+  "note": "",
+  "old": "stay **valid** [UPPCS 2023]\"]",
+  "new": "stay **valid** [UPPCS 2023; CSE 2023]\"]"
+ },
+ {
+  "id": "E58",
+  "item": 3,
+  "pair": "Arts 74–75 (Articles › Part V) ↔ Union Executive › “Art 74 … Art 75 … 75(3)” & “91st Amendment 2003…”",
+  "note": "",
+  "old": "\"74 ↔ CoM [UPPCS 2010]; 75 ↔ appointment of PM & ministers [UP Lower 2002; UPPCS M 2015]; 75(1A) ≤ 15% (91st) [UPPCS 2021]\"",
+  "new": "\"74 ↔ CoM [UPPCS 2010]; 75 ↔ appointment of PM & ministers [UP Lower 2002; UPPCS M 2015]; 75(3) collective responsibility to the LS [UP UDA 2001; UPPCS M 2012]; 75(1A) ≤ 15% (91st) [UPPCS 2020, 2021; CSE 2009, 2022]\""
+ },
+ {
+  "id": "E08",
+  "item": 3,
+  "pair": "Art 76 (Articles › Part V) ↔ Union Executive › AG “Status”",
+  "note": "",
+  "old": "[\"76\",\"**Attorney General**\",\"Part V — !!not Part XIII!! [UPPCS 2023, 2020; UPPCS M 2015]\"]",
+  "new": "[\"76\",\"**Attorney General**\",\"Part V — !!not Part XIII!!; first law officer, chief legal adviser to GoI [UPPCS 2023, 2020; UPPCS 1995; UPPCS M 2015; UP UDA 2010]\"]"
+ },
+ {
+  "id": "E61",
+  "item": 3,
+  "pair": "Art 78 (Articles › Part V) ↔ Union Executive › “PM communicates … (Art 78)”",
+  "note": "",
+  "old": "[\"77 · 78\",\"Conduct of government business · PM’s duty to inform President\",\"\"]",
+  "new": "[\"77 · 78\",\"Conduct of government business · PM’s duty to inform President (decisions and proposals for legislation)\",\"[CSE 2013; UP RI 2014; CDS 2022]\"]"
+ },
+ {
+  "id": "E62",
+  "item": 3,
+  "pair": "Art 79 (Articles › Part V) ↔ Parliament › “Art 79: Parliament = President + RS + LS”",
+  "note": "",
+  "old": "[\"79\",\"Parliament = **President + RS + LS**\",\"VP not part of Parliament [UPPCS 2024]\"]",
+  "new": "[\"79\",\"Parliament = **President + RS + LS**\",\"VP !!not part of Parliament!! [UP Lower M 2013; UPPCS 2012, 2014, 2017, 2024; UPPCS M 2004, 2011, 2013; CSE 2012]\"]"
+ },
+ {
+  "id": "E63",
+  "item": 3,
+  "pair": "Arts 80–81 (Articles › Part V) ↔ Parliament › “Rajya Sabha (Art 80)” & “Lok Sabha (Art 81)”",
+  "note": "",
+  "old": "[\"80 · 81\",\"RS composition (250; 12 nominated) · LS composition (550)\",\"\"]",
+  "new": "[\"80 · 81\",\"RS composition (250; 12 nominated) [UPPCS 1990; UP UDA 2006; CDS 2022] · LS composition (550) [UP UDA 2006; UPPCS 2018; UPPCS Spl M 2008]\",\"\"]"
+ },
+ {
+  "id": "E64",
+  "item": 3,
+  "pair": "Art 85 (Articles › Part V) ↔ Parliament › “Art 85: President summons…”",
+  "note": "",
+  "old": "[\"85 · 87\",\"Sessions (gap < 6 months) · President’s special address\",",
+  "new": "[\"85 · 87\",\"Sessions (gap < 6 months) [CSE 2020; UPPCS 1995] · President’s special address\","
+ },
+ {
+  "id": "E65",
+  "item": 3,
+  "pair": "Art 88 (Articles › Part V) ↔ Union Executive › AG table “Parliament”",
+  "note": "",
+  "old": "[\"88\",\"Rights of ministers & AG in Houses\",\"Speak & join committees, **no vote**\"]",
+  "new": "[\"88\",\"Rights of ministers & AG in Houses\",\"Speak & join committees, **no vote** [CSE 2013; UPPCS 2011; UPPCS M 2003, 2005; UP RO 2023]\"]"
+ },
+ {
+  "id": "E66",
+  "item": 3,
+  "pair": "Art 90 (Articles › Part V) ↔ Parliament › “RS Chairman … Deputy Chairman … removable…”",
+  "note": "",
+  "old": "\"RS Chairman & Deputy Chairman · **removal of Deputy Chairman**\",\"[UPPCS 2020]\"]",
+  "new": "\"RS Chairman & Deputy Chairman · **removal of Deputy Chairman**\",\"[UPPCS 2020; CSE 2013]\"]"
+ },
+ {
+  "id": "E68",
+  "item": 3,
+  "pair": "Arts 93–94 (Articles › Part V) ↔ Parliament › Speaker “Resignation letter…” & “Removal…”",
+  "note": "UPPCS 2020 moved from the resignation note to the removal clause (it is the “94 ↔ remove Speaker” matching item)",
+  "old": "[\"93 · 94\",\"Speaker & Deputy Speaker · **removal of Speaker**\",\"Speaker resigns to Deputy Speaker [UPPCS 2020]\"]",
+  "new": "[\"93 · 94\",\"Speaker & Deputy Speaker · **removal of Speaker** (effective majority, 14 days’ notice) [UPPCS 2020; CSE 2025; UPPCS 2007; UPPCS M 2008]\",\"Speaker resigns to Deputy Speaker [CSE 2012; UPPCS M 2008, 2014; CDS 2022]\"]"
+ },
+ {
+  "id": "E71",
+  "item": 3,
+  "pair": "Art 100 (Articles › Part V) ↔ Parliament › “casting vote … (Art 100)” & “Quorum … (Art 100)”",
+  "note": "",
+  "old": "[\"99 · 100\",\"Oath of MPs · voting, **casting vote**, quorum **1/10**\",\"Casting vote ↔ Art 100 [UPPCS 2015]\"]",
+  "new": "[\"99 · 100\",\"Oath of MPs · voting, **casting vote**, quorum **1/10** [UPPCS 2017; UP Lower 2008; UPPCS M 2004, 2006]\",\"Casting vote ↔ Art 100 [UPPCS 2015; UPPCS Spl M 2008; CDS 2021]\"]"
+ },
+ {
+  "id": "E72",
+  "item": 3,
+  "pair": "Art 101(4) — 60 days’ absence (Articles › Part V) ↔ Parliament › “Seat vacated after 60 days’ absence…”",
+  "note": "",
+  "old": "[\"101(4)\",\"Seat vacated after **60 days’** absence without permission\",\"[UPPCS 2018]\"]",
+  "new": "[\"101(4)\",\"Seat vacated after **60 days’** absence without permission\",\"First so disqualified: **Barjinder Singh Hamdard**, RS (Punjab), 2000 [UPPCS 2018; UPPCS M 2004]\"]"
+ },
+ {
+  "id": "E74",
+  "item": 3,
+  "pair": "Arts 102–103 (Articles › Part V) ↔ Parliament › “Disqualification (Art 102)…” & Union Executive › “Disqualification of MPs (103)…”",
+  "note": "",
+  "old": "[\"102 · 103\",\"Disqualification · President decides on **ECI’s opinion**\",",
+  "new": "[\"102 · 103\",\"Disqualification · President decides on **ECI’s opinion** (binding) [UPPCS M 2009; UPPCS 2015; CAPF 2021]\","
+ },
+ {
+  "id": "E75",
+  "item": 3,
+  "pair": "Art 105 (Articles › Part V) ↔ Parliament › “Art 105 (MPs) / 194 (MLAs)…”",
+  "note": "",
+  "old": "[\"105\",\"Privileges of MPs\",\"\"]",
+  "new": "[\"105\",\"Privileges of MPs — freedom of speech in the House; no court proceedings for anything said or vote given\",\"[CSE 2025]\"]"
+ },
+ {
+  "id": "E76",
+  "item": 3,
+  "pair": "Art 108 joint sitting (Articles › Part V) ↔ Parliament › Joint sitting “Art 108 — not 109”, “Summoned by the President”, “Presided by the Speaker”",
+  "note": "",
+  "old": "\"!!Not 109!!; President summons; Speaker presides [UPPCS 2025, 2023, 2020; UPPCS 2012, 2015]\"",
+  "new": "\"!!Not 109!!; President summons; Speaker presides [UPPCS 2025, 2023, 2020; UPPCS 2012, 2014, 2015; UPPCS M 2005, 2006, 2010, 2013, 2015; UP Lower 2009; UP RO M 2021]\""
+ },
+ {
+  "id": "E77",
+  "item": 3,
+  "pair": "Arts 109–110 (Articles › Part V) ↔ Parliament › “Money Bill defined in Art 110; … Art 109…”",
+  "note": "",
+  "old": "[\"109 · 110\",\"Money Bill procedure · **Money Bill definition**\",",
+  "new": "[\"109 · 110\",\"Money Bill procedure · **Money Bill definition** [CSE 2024; UP UDA M 2010]\","
+ },
+ {
+  "id": "E78",
+  "item": 3,
+  "pair": "Art 111 (Articles › Part V) ↔ Union Executive › “Art 111: assent / withhold / return” & “Money Bills cannot be returned”",
+  "note": "",
+  "old": "[\"111\",\"Assent to Bills\",\"Cannot return a Money Bill [UPPCS M 2016]\"]",
+  "new": "[\"111\",\"Assent to Bills — assent / withhold / return (non-Money Bills) [UP Lower 2004; UPPCS 2008; UPPCS M 2011]\",\"Cannot return a Money Bill [UPPCS M 2007, 2016]\"]"
+ },
+ {
+  "id": "E80",
+  "item": 3,
+  "pair": "“Budget” is not a word in the Constitution (Articles › Part V) ↔ Parliament › Budget & public funds",
+  "note": "",
+  "old": "\"“Budget” is not a word in the Constitution\"]",
+  "new": "\"“Budget” is !!not a word in the Constitution!! — **Annual Financial Statement (Art 112)**, laid by the **President** [UPPCS M 2011; CSE 2024]\"]"
+ },
+ {
+  "id": "E81",
+  "item": 3,
+  "pair": "Arts 116–117 (Articles › Part V) ↔ Parliament › “Vote on account (Art 116)” & “Financial Bills in Art 117”",
+  "note": "",
+  "old": "[\"116 · 117\",\"Vote on account · **Financial Bills**\",\"117 ↔ special provisions for Financial Bills [UP UDA 2010]\"]",
+  "new": "[\"116 · 117\",\"Vote on account [UPPCS M 2004; UP Lower 2008; UPPCS 2017] · **Financial Bills**\",\"117 ↔ special provisions for Financial Bills [UP UDA 2010; UP UDA M 2010]\"]"
+ },
+ {
+  "id": "E83",
+  "item": 3,
+  "pair": "Arts 122–123 (Articles › Part V) ↔ Parliament › “Art 122…”, Union Executive › ordinance table “Origin” & “Article asked”",
+  "note": "",
+  "old": "[\"122 · 123\",\"Courts can’t inquire into proceedings · President’s **ordinance**\",\"123 descends from Sec 42, GoI Act 1935\"]",
+  "new": "[\"122 · 123\",\"Courts can’t inquire into proceedings [UP UDA M 2010] · President’s **ordinance** [UP Lower M 2013; UPPCS M 2016]\",\"123 descends from Sec 42, GoI Act 1935 — a relic of that Act [UPPCS M 2008]\"]"
+ },
+ {
+  "id": "E84",
+  "item": 3,
+  "pair": "Art 124A NJAC (Articles › Part V) ↔ Judiciary › Judges’ cases “NJAC case”",
+  "note": "",
+  "old": "[\"124 · 124A\",\"Supreme Court · NJAC (99th, struck down 2015)\",\"\"]",
+  "new": "[\"124 · 124A\",\"Supreme Court · NJAC (99th, struck down 16 Oct 2015)\",\"[CSE 2019]\"]"
+ },
+ {
+  "id": "E85",
+  "item": 3,
+  "pair": "Arts 126–128 (Articles › Part V) ↔ Judiciary › SC vs HC “Temporary judges” & “Acting judges — HCs; ad hoc — SC”",
+  "note": "",
+  "old": "\"Ad hoc judges only in the SC [UPPCS M 2004; UP GIC 2010]\"]",
+  "new": "\"Ad hoc judges only in the SC [UPPCS M 2004; UP GIC 2010; UPPCS 2000; UP UDA 2001; CSE 2021]\"]"
+ },
+ {
+  "id": "E87",
+  "item": 3,
+  "pair": "Arts 129–130 (Articles › Part V) ↔ Judiciary › “courts of record” & SC vs HC “Seat”",
+  "note": "",
+  "old": "[\"129 · 130\",\"**Court of record** · seat Delhi or elsewhere (CJI with President’s approval)\",\"\"]",
+  "new": "[\"129 · 130\",\"**Court of record** [UP RO 2023; UPPCS M 2008] · seat Delhi or elsewhere (CJI with President’s approval) [UPPCS Spl M 2008; UPPCS M 2008]\",\"\"]"
+ },
+ {
+  "id": "E88",
+  "item": 3,
+  "pair": "Art 131 (Articles › Part V) ↔ Judiciary › “Original, exclusive (Art 131)…”",
+  "note": "",
+  "old": "[\"131\",\"**Original** jurisdiction — Centre–State disputes\",\"[UPPCS M 2015]\"]",
+  "new": "[\"131\",\"**Original** jurisdiction — Centre–State disputes\",\"[UPPCS M 2015; CSE 2014; CSE 2012; UPPCS 1995]\"]"
+ },
+ {
+  "id": "E90",
+  "item": 3,
+  "pair": "Arts 132–134A (Articles › Part V) ↔ Judiciary › “Appellate: Art 132…”",
+  "note": "",
+  "old": "\"Appeals — constitutional (132 with 134A), civil, criminal\",\"[UP UDA 2002; UPPCS M 2004; UPPCS 2001]\"]",
+  "new": "\"Appeals — constitutional (132 with 134A), civil, criminal\",\"[UP UDA 2002; UPPCS M 2004; UPPCS 2001; UP Lower M 2013]\"]"
+ },
+ {
+  "id": "E91",
+  "item": 3,
+  "pair": "Art 137 (Articles › Part V) ↔ Judiciary › “Art 137 review of own judgments…”",
+  "note": "",
+  "old": "\"137 ↔ review [UPPCS M 2009]\"]",
+  "new": "\"137 ↔ review [UPPCS M 2005, 2009, 2011]\"]"
+ },
+ {
+  "id": "E92",
+  "item": 3,
+  "pair": "Arts 138–143 (Articles › Part V) ↔ Judiciary › “Art 138…”, “Art 142…”, “Advisory (Art 143)…” & Union Executive › powers “Judicial”",
+  "note": "",
+  "old": "\"Enlarged jurisdiction · transfer of cases · law declared binding · **complete justice** · **advisory** opinion (not binding)\"",
+  "new": "\"Enlarged jurisdiction · transfer of cases · law declared binding [CSE 2005] · **complete justice** [CSE 2019] · **advisory** opinion (not binding) [CSE 2010; UPPCS 2012; UPPCS M 2012, 2016; UPPCS Spl M 2008; UP GIC 2010]\""
+ },
+ {
+  "id": "E93",
+  "item": 3,
+  "pair": "Arts 148–151 CAG (Articles › Part V) ↔ Constitutional Bodies › CAG “Office created by the Constitution (Art 148)…”",
+  "note": "",
+  "old": "\"**CAG** · duties · form of accounts · audit reports → President / Governor\",\"[UPPCS 2024; UPPCS 2016; UPPCS M 2015]\"]",
+  "new": "\"**CAG** · duties · form of accounts · audit reports → President / Governor\",\"[UPPCS 2024; UPPCS 2016; UPPCS 2012; UPPCS M 2015; UP UDA 2001; UP Lower 2015; MPPCS 2019]\"]"
+ },
+ {
+  "id": "E95",
+  "item": 3,
+  "pair": "Art 153 (Articles › Part VI) ↔ State › “Art 153: a Governor for each State…”",
+  "note": "",
+  "old": "\"7th Amdt: same person may be Governor of 2+ States [UPPCS 2024]\"]",
+  "new": "\"7th Amdt: same person may be Governor of 2+ States [UPPCS 2024; CSE 2013; UP Lower 1996]\"]"
+ },
+ {
+  "id": "E97",
+  "item": 3,
+  "pair": "Arts 157–159 (Articles › Part VI) ↔ State › Governor qualifications, emoluments, oath",
+  "note": "",
+  "old": "[\"157 · 158 · 159\",\"Qualifications (35, citizen) · conditions, emoluments shared if 2+ States · oath before HC Chief Justice\",\"\"]",
+  "new": "[\"157 · 158 · 159\",\"Qualifications (35, citizen) [UP Lower 1996] · conditions, emoluments shared if 2+ States [CSE 2018; JPSC 2003] · oath before HC Chief Justice [UP Lower M 2013; UPPCS M 2014]\",\"\"]"
+ },
+ {
+  "id": "E98",
+  "item": 3,
+  "pair": "Art 161 (Articles › Part VI) ↔ Union Executive › pardon table “Death sentence”",
+  "note": "",
+  "old": "[\"161\",\"Governor’s pardon\",\"!!Cannot pardon a death sentence!! (can suspend/commute)\"]",
+  "new": "[\"161\",\"Governor’s pardon\",\"!!Cannot pardon a death sentence!! (can suspend/remit/commute) [UPPCS M 2005]\"]"
+ },
+ {
+  "id": "E99",
+  "item": 3,
+  "pair": "Art 164 (Articles › Part VI) ↔ State › “CM appointed by the Governor (Art 164)…” & “CoM ≤ 15% … minimum 12 (91st)”",
+  "note": "",
+  "old": "164 ↔ CM & CoM [UP Lower 2002; UPPCS M 2005, 2011]; 94th amended 164 [UP RO M 2016]\"]",
+  "new": "164 ↔ CM & CoM — CM appointed by the Governor [UP Lower 2002; UPPCS M 2005, 2011; UP UDA 2010; UP UDA M 2010]; 164(1A) minimum 12 [UPPCS 2020]; 94th amended 164 [UP RO M 2016]\"]"
+ },
+ {
+  "id": "E101",
+  "item": 3,
+  "pair": "Arts 165, 167 (Articles › Part VI) ↔ Union Executive › AG table “Advocate General” & State › “Art 167 — duties of the CM”",
+  "note": "",
+  "old": "[\"165 · 167\",\"**Advocate General** · CM’s duty to inform Governor\",\"\"]",
+  "new": "[\"165 · 167\",\"**Advocate General** — constitutional (Part VI), appointed by the Governor [UP Lower 2015; UPPCS M 2014; CSE 2009] · CM’s duty to inform Governor [UP Lower M 2013]\",\"\"]"
+ },
+ {
+  "id": "E102",
+  "item": 3,
+  "pair": "Art 169 (Articles › Part VI) ↔ State › “Created or abolished by Parliament … (Art 169)”",
+  "note": "",
+  "old": "\"LA resolution (special majority) + Parliament law\"]",
+  "new": "\"LA resolution (special majority) + Parliament law [UP Lower 2008; RAS 2021]\"]"
+ },
+ {
+  "id": "E103",
+  "item": 3,
+  "pair": "Arts 170–171 (Articles › Part VI) ↔ State › Assembly vs Council “Size”",
+  "note": "",
+  "old": "[\"170 · 171\",\"LA 60–500 · LC ≤ ⅓ of LA, ≥ 40\",\"[UPPCS 2023]\"]",
+  "new": "[\"170 · 171\",\"LA 60–500 [UP RO 2017; UPPCS M 2014, 2015] · LC ≤ ⅓ of LA, ≥ 40\",\"[UPPCS 2023]\"]"
+ },
+ {
+  "id": "E104",
+  "item": 3,
+  "pair": "Arts 191–192 (Articles › Part VI) ↔ State › Assembly vs Council “Disqualification”",
+  "note": "",
+  "old": "[\"191 · 192\",\"Disqualification of MLAs · Governor decides on ECI’s opinion\",\"\"]",
+  "new": "[\"191 · 192\",\"Disqualification of MLAs · Governor decides on ECI’s opinion\",\"[UPPCS M 2016]\"]"
+ },
+ {
+  "id": "E105",
+  "item": 3,
+  "pair": "Arts 200–201 (Articles › Part VI) ↔ State › “The President cannot reserve a State Bill…”",
+  "note": "",
+  "old": "\"Bills reserved under 201 → President\"]",
+  "new": "\"Bills reserved under 201 → President; the President cannot reserve a State Bill on his own [CSE 2025; UP Lower 2004]\"]"
+ },
+ {
+  "id": "E106",
+  "item": 3,
+  "pair": "Art 207 (Articles › Part VI) ↔ State › Assembly vs Council “Money Bill” & “Art 207 — Governor’s recommendation…”",
+  "note": "",
+  "old": "\"State analogue of Arts 110/117\"]",
+  "new": "\"State analogue of Arts 110/117 [UPPCS 2012; CGPCS 2021]\"]"
+ },
+ {
+  "id": "E107",
+  "item": 3,
+  "pair": "Art 213 (Articles › Part VI) ↔ Union Executive › ordinance table “Article asked”",
+  "note": "",
+  "old": "[\"213\",\"Governor’s ordinance\",\"Mirror of Art 123\"]",
+  "new": "[\"213\",\"Governor’s ordinance\",\"Mirror of Art 123 [UP RO M 2016; UPPCS M 2017]\"]"
+ },
+ {
+  "id": "E108",
+  "item": 3,
+  "pair": "Arts 214–231 (Articles › Part VI) ↔ Judiciary › “courts of record”, “HC writ power … broader”, “Acting judges — in High Courts”",
+  "note": "",
+  "old": "\"High Courts: 215 court of record · 217 appointment · 224 additional & acting judges · 226 writs (wider than 32) · 227 superintendence · 231 common HC\",\"Acting judges → HC only\"]",
+  "new": "\"High Courts: 215 court of record [UP RO 2023; UPPCS M 2008] · 217 appointment · 224 additional & acting judges · 226 writs (wider than 32) [UPPCS 1997] · 227 superintendence · 231 common HC\",\"Acting judges → HC only [UPPCS M 2004]\"]"
+ },
+ {
+  "id": "E109",
+  "item": 3,
+  "pair": "Arts 233–237 (Articles › Part VI) ↔ Judiciary › “District judges appointed … by the Governor…”",
+  "note": "",
+  "old": "[\"233–237\",\"Subordinate courts — district judges appointed by Governor in consultation with HC\",\"\"]",
+  "new": "[\"233–237\",\"Subordinate courts — district judges appointed by Governor in consultation with HC\",\"[CAPF 2022; UPPCS M 2016]\"]"
+ },
+ {
+  "id": "E110",
+  "item": 3,
+  "pair": "Arts 239–241 (Articles › Parts VIII–X) ↔ Union › “Art 239…”, “239AA…”, “Art 241…”",
+  "note": "",
+  "old": "\"239 ↔ UT administration [UP RO 2023]; 241 ↔ HCs for UTs [UP RO M 2016]\"]",
+  "new": "\"239 ↔ UT administration [UP RO 2023; UPPCS 1995]; 239AA Delhi [UP RI 2014; UPPCS M 2009; UP Lower 2015; UPPCS 2022]; 241 ↔ HCs for UTs [UP RO M 2016]\"]"
+ },
+ {
+  "id": "E112",
+  "item": 3,
+  "pair": "Arts 243A–243C (Articles › Parts VIII–X) ↔ Local Govt › 73rd vs 74th “Units” & “Composition”",
+  "note": "",
+  "old": "[\"243A · 243B · 243C\",\"Gram Sabha · three tiers (no intermediate tier if population ≤ **20 lakh**) · composition by State law\",\"\"]",
+  "new": "[\"243A · 243B · 243C\",\"Gram Sabha · three tiers (no intermediate tier if population ≤ **20 lakh**) [CSE 2025; UPPCS M 2017] · composition by State law [UPPCS 2016]\",\"\"]"
+ },
+ {
+  "id": "E113",
+  "item": 3,
+  "pair": "Art 243D (Articles › Parts VIII–X) ↔ Local Govt › 73rd vs 74th “Reservation”",
+  "note": "",
+  "old": "[\"243D\",\"Reservation — **women ⅓** incl. SC/ST women\",\"[UPPCS 2025]\"]",
+  "new": "[\"243D\",\"Reservation — **women ⅓** incl. SC/ST women\",\"[UPPCS 2025; UP RO 2017; UP UDA M 2010; UPPCS 2012]\"]"
+ },
+ {
+  "id": "E114",
+  "item": 3,
+  "pair": "Art 243E (Articles › Parts VIII–X) ↔ Local Govt › 73rd vs 74th “Term”",
+  "note": "",
+  "old": "[\"243E · 243G\",\"Term **5 yrs** from first meeting · powers (11th Sch)\",\"\"]",
+  "new": "[\"243E · 243G\",\"Term **5 yrs** from first meeting [CSE 2009; CSE 2016; UP Lower M 2013] · powers (11th Sch)\",\"\"]"
+ },
+ {
+  "id": "E115",
+  "item": 3,
+  "pair": "Arts 243I, 243K (Articles › Parts VIII–X) ↔ Local Govt › 73rd vs 74th “Finance” (SFC) & “Elections” (SEC)",
+  "note": "UPPCS 2023, 2020 placed under SEC — the UP file and Local Govt tag them to the SEC",
+  "old": "\"Both by the Governor [UPPCS 2023, 2020]\"]",
+  "new": "\"Both by the Governor — SFC [CSE 2010; CSE 2011; CSE 2025; UPPCS 2015; UPPCS 2013] · SEC [UPPCS 2023, 2020; CSE 2011; UP Lower M 2013; UPPCS M 2008]\"]"
+ },
+ {
+  "id": "E116",
+  "item": 3,
+  "pair": "Art 243T (Articles › Parts VIII–X) ↔ Local Govt › 73rd vs 74th “Reservation” (municipal side)",
+  "note": "",
+  "old": "\"Municipalities: 243T women ⅓ · 243U 5 yrs",
+  "new": "\"Municipalities: 243T women ⅓ [CAPF 2024] · 243U 5 yrs"
+ },
+ {
+  "id": "E117",
+  "item": 3,
+  "pair": "Part IX-B (Articles › Parts VIII–X) ↔ Amendments › 97th",
+  "note": "",
+  "old": "[\"243ZH–243ZT\",\"Co-operative societies (97th); 243ZJ max **21** directors\",\"\"]",
+  "new": "[\"243ZH–243ZT\",\"Co-operative societies (97th); 243ZJ max **21** directors\",\"[UPPCS M 2016; UPPCS 2016]\"]"
+ },
+ {
+  "id": "E118",
+  "item": 3,
+  "pair": "Arts 244, 244A (Articles › Parts VIII–X) ↔ Local Govt › Sixth Schedule “Applies to…” & Union › “Art 244A”",
+  "note": "",
+  "old": "[\"244 · 244A\",\"Fifth & Sixth Schedules · autonomous State within Assam\",\"\"]",
+  "new": "[\"244 · 244A\",\"Fifth & Sixth Schedules [UPPCS M 2016; UP RO 2023; CSE 2026] · autonomous State within Assam [CAPF 2015]\",\"\"]"
+ },
+ {
+  "id": "E119",
+  "item": 3,
+  "pair": "Arts 245–246 (Articles › Parts XI–XIV-A) ↔ Federalism › “Distribution via Arts 245 & 246 + Seventh Schedule”",
+  "note": "",
+  "old": "[\"245 · 246 · 246A\",\"Extent of laws · three Lists · GST (101st)\",\"\"]",
+  "new": "[\"245 · 246 · 246A\",\"Extent of laws · three Lists · GST (101st)\",\"[UP UDA 2001; UPPCS 1993; UP Lower 2008]\"]"
+ },
+ {
+  "id": "E120",
+  "item": 3,
+  "pair": "Art 248 (Articles › Parts XI–XIV-A) ↔ Federalism › “Residuary powers → Parliament (Art 248…)”",
+  "note": "",
+  "old": "[\"248\",\"**Residuary** powers → Parliament\",\"Canada model\"]",
+  "new": "[\"248\",\"**Residuary** powers → Parliament (Entry 97 List I)\",\"Canada model [UPPCS 1991; UPPCS 1995; UPPCS 2015]\"]"
+ },
+ {
+  "id": "E121",
+  "item": 3,
+  "pair": "Art 249 (Articles › Parts XI–XIV-A) ↔ Federalism › “Art 249: RS resolution…”",
+  "note": "",
+  "old": "lasts ≤ **1 yr** (renewable)\",\"\"]",
+  "new": "lasts ≤ **1 yr** (renewable); law lapses 6 months after\",\"[CSE 2016; UPPCS 2016, 2017; UPPCS M 2009, 2012, 2017]\"]"
+ },
+ {
+  "id": "E122",
+  "item": 3,
+  "pair": "Arts 252–253 (Articles › Parts XI–XIV-A) ↔ Federalism › “Art 252…” & “Art 253…”",
+  "note": "",
+  "old": "\"253: no State consent needed [UPPCS 2006]\"]",
+  "new": "\"252 [UPPCS 2012] · 253: no State consent needed [UPPCS 2006; UPPCS 2016; UPPCS M 2016; CSE 2013; UP RO 2021]\"]"
+ },
+ {
+  "id": "E123",
+  "item": 3,
+  "pair": "Arts 262–263 (Articles › Parts XI–XIV-A) ↔ Federalism › “Inter-State water disputes: Art 262” & “Art 263 — Inter-State Council”",
+  "note": "",
+  "old": "[\"256 · 262 · 263\",\"States comply with Union laws · water disputes · **Inter-State Council**\",\"[UPPCS 2020]\"]",
+  "new": "[\"256 · 262 · 263\",\"States comply with Union laws · water disputes [UPPCS Spl M 2004] · **Inter-State Council** [UP Lower 2009; UPPCS 2000; UPPCS 2017; UPPCS 2021]\",\"[UPPCS 2020]\"]"
+ },
+ {
+  "id": "E124",
+  "item": 3,
+  "pair": "Arts 265, 267 (Articles › Parts XI–XIV-A) ↔ Parliament › “Art 265…” & “Contingency Fund (Art 267)…”",
+  "note": "",
+  "old": "\"266 ↔ CFI [UPPCS 2024]; 267 [UPPCS 2021]\"]",
+  "new": "\"265 [UPPCS M 2007]; 266 ↔ CFI [UPPCS 2024]; 267 [UPPCS 2021; UPPCS 1991; UP Lower 2004; UP RO M 2014]\"]"
+ },
+ {
+  "id": "E125",
+  "item": 3,
+  "pair": "Arts 268–281 (Articles › Parts XI–XIV-A) ↔ Federalism › Part XII “Arts 268 to 281” & row 276",
+  "note": "",
+  "old": "\"269A GST inter-State · 276 profession-tax cap · 279A GST Council\"]",
+  "new": "\"Arts 268–281 [UPPCS 2014] · 269A GST inter-State · 276 profession-tax cap ₹2,500 [UPPCS M 2002, 2004] · 279A GST Council\"]"
+ },
+ {
+  "id": "E126",
+  "item": 3,
+  "pair": "Art 280 (Articles › Parts XI–XIV-A) ↔ Constitutional Bodies › “Art 280 — constituted by the President…”",
+  "note": "",
+  "old": "[\"280\",\"**Finance Commission**\",\"[UPPCS 2024, 2023, 2021, 2020; UPPCS 2016]\"]",
+  "new": "[\"280\",\"**Finance Commission**\",\"[UPPCS 2024, 2023, 2021, 2020; UPPCS 2016; UP RO M 2021]\"]"
+ },
+ {
+  "id": "E128",
+  "item": 3,
+  "pair": "Arts 281, 293, 300, 300A (Articles › Parts XI–XIV-A) ↔ Const. Bodies (281), Federalism (293), Union Exec (300), FR (300A)",
+  "note": "",
+  "old": "\"FC report laid before Parliament · State borrowing · suits by/against “Union of India” · right to property\",\"\"]",
+  "new": "\"FC report laid before Parliament [CSE 2010] · State borrowing only within India [UPPCS M 2012] · suits by/against “Union of India” [UP RO M 2021] · right to property — a legal right [UP UDA 2010; UPPCS M 2013, 2014, 2015; UP Lower 2004, 2013; UPPCS Spl M 2004; UPPCS 2007]\",\"\"]"
+ },
+ {
+  "id": "E129",
+  "item": 3,
+  "pair": "Art 301 (Articles › Parts XI–XIV-A) ↔ Federalism › Part XII row 301",
+  "note": "",
+  "old": "[\"301\",\"Freedom of trade, commerce & intercourse (Part XIII)\",\"\"]",
+  "new": "[\"301\",\"Freedom of trade, commerce & intercourse (Part XIII)\",\"[UPPCS 1999]\"]"
+ },
+ {
+  "id": "E131",
+  "item": 3,
+  "pair": "Art 315 (Articles › Parts XI–XIV-A) ↔ Constitutional Bodies › “UPSC is a constitutional organisation (Art 315)…”",
+  "note": "",
+  "old": "\"!!Not 324!! [UPPCS 2023, 2022, 2020; UPPCS 2016]\"]",
+  "new": "\"!!Not 324!! [UPPCS 2023, 2022, 2020; UPPCS 2016; UPPCS M 2014]\"]"
+ },
+ {
+  "id": "E133",
+  "item": 3,
+  "pair": "Arts 316–319 (Articles › Parts XI–XIV-A) ↔ Constitutional Bodies › UPSC/SPSC removal lines",
+  "note": "",
+  "old": "\"Appointment & term · removal (President; SC inquiry for misbehaviour) · conditions · bar on later employment\",\"\"]",
+  "new": "\"Appointment & term · removal (President; SC inquiry for misbehaviour) [UPPCS 2020; UPPCS 2021] · conditions · bar on later employment\",\"\"]"
+ },
+ {
+  "id": "E134",
+  "item": 3,
+  "pair": "Arts 320–323 (Articles › Parts XI–XIV-A) ↔ Constitutional Bodies › “UP PSC: functions … (321); expenses … (322)” & “annual report goes to the President”",
+  "note": "",
+  "old": "\"**Functions** · extension of functions by law · expenses charged · annual reports\",\"320 ↔ PSC functions",
+  "new": "\"**Functions** · extension of functions by law · expenses charged [UPPCS 2021; UPPCS 2010] · annual reports [UP Lower 2013; UP UDA 2010]\",\"320 ↔ PSC functions"
+ },
+ {
+  "id": "E18",
+  "item": 3,
+  "pair": "(Tribunals — Articles › Part XI–XIV-A row 323A · 323B)",
+  "note": "",
+  "old": "\"**Administrative tribunals** · other tribunals (42nd)\",\"[UPPCS 2020; UPPCS 2016; UP Lower 2015]\"",
+  "new": "\"**Administrative tribunals** (only by Parliament) · other tribunals (by Parliament or State legislature) (42nd)\",\"[UPPCS 2020; UPPCS 2016; UP Lower 2015; CDS 2019]\""
+ },
+ {
+  "id": "E135",
+  "item": 3,
+  "pair": "Art 324 (Articles › Parts XV–XXII) ↔ Constitutional Bodies › “Art 324 — superintendence…”",
+  "note": "",
+  "old": "[\"324\",\"**Election Commission**\",\"[UPPCS 2024, 2023; UP Lower 2015]\"]",
+  "new": "[\"324\",\"**Election Commission**\",\"[UPPCS 2024, 2023, 2016; UPPCS M 2010, 2017; UP Lower 2015; UP UDA 2001; CDS 2015]\"]"
+ },
+ {
+  "id": "E137",
+  "item": 3,
+  "pair": "Art 326 adult suffrage, 18 (Articles › Parts XV–XXII) ↔ Elections › “Voting age 21 → 18 by the 61st…”",
+  "note": "",
+  "old": "[\"325 · 326\",\"Single electoral roll · **adult suffrage** (18 yrs, 61st)\",\"\"]",
+  "new": "[\"325 · 326\",\"Single electoral roll · **adult suffrage** (18 yrs, 61st)\",\"[UPPCS 2000, 2011, 2021; UPPCS Spl M 2004, 2008; UPPCS M 2007, 2010]\"]"
+ },
+ {
+  "id": "E138",
+  "item": 3,
+  "pair": "Arts 327–329 (Articles › Parts XV–XXII) ↔ Elections › “Art 324 … 327 … 328 … 329…”",
+  "note": "",
+  "old": "[\"327 · 328 · 329\",\"Parliament’s power over elections · State legislature’s power · bar on courts\",\"\"]",
+  "new": "[\"327 · 328 · 329\",\"Parliament’s power over elections · State legislature’s power · bar on courts\",\"[UP RO M 2017; CGPCS 2018]\"]"
+ },
+ {
+  "id": "E139",
+  "item": 3,
+  "pair": "Art 330 (Articles › Parts XV–XXII) ↔ Parliament › “Reserved LS seats (Art 330)…”",
+  "note": "",
+  "old": "\"330 ↔ LS reservation [UP Lower 2015; UP GIC 2010]\"]",
+  "new": "\"330 ↔ LS reservation — SC 84, ST 47 [UP Lower 2015; UP GIC 2010; UPPCS 1997, 1998; UPPCS M 2005]\"]"
+ },
+ {
+  "id": "E141",
+  "item": 3,
+  "pair": "Arts 330A, 332A (Articles › Parts XV–XXII) ↔ Parliament › “Nari Shakti Vandan Adhiniyam (106th, 2023)…”",
+  "note": "",
+  "old": "\"Women ⅓ in LS / LAs / Delhi (106th, 2023) — operative after the next census & delimitation\",\"\"]",
+  "new": "\"Women ⅓ in LS / LAs / Delhi (106th, 2023) — operative after the next census & delimitation\",\"[CSE 2024]\"]"
+ },
+ {
+  "id": "E142",
+  "item": 3,
+  "pair": "Art 335 (Articles › Parts XV–XXII) ↔ FR › “Reservation limited by Art 335…”",
+  "note": "",
+  "old": "[\"335\",\"SC/ST claims to services consistent with administrative efficiency\",\"\"]",
+  "new": "[\"335\",\"SC/ST claims to services consistent with administrative efficiency — “efficiency of administration” is !!not defined!!\",\"[CSE 2023]\"]"
+ },
+ {
+  "id": "E143",
+  "item": 3,
+  "pair": "Arts 338–338B (Articles › Parts XV–XXII) ↔ Constitutional Bodies › “Art 338 NCSC; 338A NCST…” & “NCBC … 102nd”",
+  "note": "",
+  "old": "\"!!340 = backward-classes commission, not NCBC!! [UPPCS 2024, 2023; UPPCS 2013; UP UDA 2010]\"]",
+  "new": "\"NCST split off by the 89th [UP UDA M 2010]; NCBC constitutional by the 102nd [CSE 2023]; !!340 = backward-classes commission, not NCBC!! [UPPCS 2024, 2023; UPPCS 2013; UP UDA 2010]\"]"
+ },
+ {
+  "id": "E144",
+  "item": 3,
+  "pair": "Art 342 (Articles › Parts XV–XXII) ↔ Local Govt › “ST notification: by the President under Art 342…”",
+  "note": "",
+  "old": "\"President specifies SCs after consulting Governor [UPPCS 2016; UPPCS M 2006]\"]",
+  "new": "\"President specifies SCs after consulting Governor [UPPCS 2016; UPPCS M 2006]; ST list likewise (Art 342), State-specific [CSE 2024]\"]"
+ },
+ {
+  "id": "E145",
+  "item": 3,
+  "pair": "Art 344 (Articles › Parts XV–XXII) ↔ Misc › “Art 344: Official Language Commission … B.G. Kher, 1955”",
+  "note": "",
+  "old": "Official Language Commission (1st: B.G. Kher 1955)\",\"[UPPCS 2023]\"]",
+  "new": "Official Language Commission (1st: B.G. Kher 1955) [UPPCS 1998]\",\"[UPPCS 2023]\"]"
+ },
+ {
+  "id": "E146",
+  "item": 3,
+  "pair": "Arts 355, 359 (Articles › Parts XV–XXII) ↔ Federalism › “Art 355…” & “Art 359 … except Arts 20 and 21”",
+  "note": "",
+  "old": "[\"355 · 358 · 359\",\"Union duty to protect States · suspends Art 19 · suspends other FRs (!!not 20, 21!!)\",\"\"]",
+  "new": "[\"355 · 358 · 359\",\"Union duty to protect States [UPPCS 2001; CSE 2023] · suspends Art 19 · suspends other FRs (!!not 20, 21!!) [UPPCS Spl M 2008; UPPCS M 2009; UPPCS 2015]\",\"\"]"
+ },
+ {
+  "id": "E147",
+  "item": 3,
+  "pair": "Art 361 (Articles › Parts XV–XXII) ↔ State › Governor immunity “civil proceedings … 2 months’ notice”",
+  "note": "",
+  "old": "[\"361\",\"Immunity of President & Governors\",\"Civil suits: 2 months’ notice\"]",
+  "new": "[\"361\",\"Immunity of President & Governors\",\"Civil suits: 2 months’ notice [UPPCS M 2003]\"]"
+ },
+ {
+  "id": "E148",
+  "item": 3,
+  "pair": "Art 368 (Articles › Parts XV–XXII) ↔ Amendments › “Initiated only in Parliament, in either House” & “Each House separately by special majority…”",
+  "note": "",
+  "old": "\"Either House; special majority; no joint sitting [UPPCS 2010; UPPCS 2016]\"]",
+  "new": "\"Either House [CSE 2013; UP UDA 2013]; special majority; no joint sitting [UPPCS 2010; UPPCS 2016; CSE 2022; UPPCS M 2004, 2007; UPPCS 2025]\"]"
+ },
+ {
+  "id": "E149",
+  "item": 3,
+  "pair": "First Schedule amended to create a State (Articles › Schedules) ↔ Union › “Art 4: laws … amend the First and Fourth Schedules…”",
+  "note": "",
+  "old": "\"Amended to create a State [UPPCS M 2014; UP Lower 2008]\"]",
+  "new": "\"Amended to create a State — by an Art 4 law, !!not an Art 368 amendment!! [UPPCS M 2014; UP Lower 2008; UPPCS M 2011; UPPCS 2016; CDS 2014]\"]"
+ },
+ {
+  "id": "E151",
+  "item": 3,
+  "pair": "Fifth Schedule — President declares Scheduled Areas (Articles › Schedules) ↔ Local Govt › “Scheduled Areas are declared by Order of the President…”",
+  "note": "",
+  "old": "\"President declares Scheduled Areas [UPPCS 2006]\"]",
+  "new": "\"President declares Scheduled Areas [UPPCS 2006; CSE 2023; UP RO 2023]\"]"
+ },
+ {
+  "id": "E152",
+  "item": 3,
+  "pair": "Seventh Schedule (Articles › Schedules) ↔ Federalism › “Distribution via Arts 245 & 246 + Seventh Schedule”",
+  "note": "",
+  "old": "\"246\",\"[UP RO M 2021; UPPCS 1993; UP Lower 2008]\"]",
+  "new": "\"246\",\"[UP RO M 2021; UPPCS 1993; UP Lower 2008; UP UDA 2001]\"]"
+ },
+ {
+  "id": "E154",
+  "item": 3,
+  "pair": "Tenth Schedule — anti-defection (Articles › Schedules, Ninth & Tenth) ↔ Parliament › “Anti-defection law is in the Tenth Schedule”",
+  "note": "",
+  "old": "\"102(2), 191(2)\",\"52nd (1985) [UP Lower 2013; CSE 2014]\"]",
+  "new": "\"102(2), 191(2)\",\"52nd (1985) [UP Lower 2013; UP Lower M 2013; CSE 2014]\"]"
+ },
+ {
+  "id": "E158",
+  "item": 3,
+  "pair": "Economic & social planning — Concurrent List (Articles › Seventh Schedule bank) ↔ Federalism › “Concurrent List subjects…”",
+  "note": "",
+  "old": "**economic & social planning** [UP UDA 2006; CSE 2013]",
+  "new": "**economic & social planning** [UP UDA 2006; CSE 2013; UP BEO 2019]"
+ },
+ {
+  "id": "E157",
+  "item": 3,
+  "pair": "Odia renamed, 96th (Articles › Eighth Schedule) ↔ Amendments › 96th",
+  "note": "",
+  "old": "Oriya renamed **Odia** 96th (2011) [UPPCS 2024]",
+  "new": "Oriya renamed **Odia** 96th (2011) [UPPCS 2024; UP RO M 2016]"
+ },
+ {
+  "id": "E156",
+  "item": 3,
+  "pair": "(Tenth Schedule — Articles › Ninth & Tenth copy)",
+  "note": "",
+  "old": "\"Tenth Schedule: anti-defection (52nd, 1985) [CSE 2014; UP Lower 2013];",
+  "new": "\"Tenth Schedule: anti-defection (52nd, 1985) [CSE 2014; UP Lower 2013; UP Lower M 2013];"
+ },
+ {
+  "id": "E19",
+  "item": 3,
+  "pair": "(Tribunals — Articles › trap set)",
+  "note": "",
+  "old": "\"Tribunals are **Part XIV-A**, !!not X or XI!! [UP RO 2016; UPPCS 2023]\"",
+  "new": "\"Tribunals are **Part XIV-A**, !!not X or XI!! [UP RO 2016; UPPCS 2023; CDS 2019]\""
+ },
+ {
+  "id": "E10",
+  "item": 3,
+  "pair": "AG (Articles › trap set) ↔ Union Executive › AG “Status”",
+  "note": "",
+  "old": "\"Attorney General is **Art 76, Part V**, !!not Part XIII!! [UPPCS 2020]\"",
+  "new": "\"Attorney General is **Art 76, Part V**, !!not Part XIII!! [UPPCS 2023, 2020; UPPCS 1995; UPPCS M 2015; UP UDA 2010]\""
+ },
+ {
+  "id": "E160",
+  "item": 3,
+  "pair": "Co-operatives by the 97th (Articles › trap set) ↔ Amendments › 97th",
+  "note": "",
+  "old": "\"Co-operatives: FR **19(1)(c)**, DPSP **43B**, Part **IX-B** — all by the **97th** Amdt\"",
+  "new": "\"Co-operatives: FR **19(1)(c)**, DPSP **43B**, Part **IX-B** — all by the **97th** Amdt [UPPCS M 2016; UPPCS 2016]\""
+ },
+ {
+  "id": "U3",
+  "item": 6,
+  "pair": "Misc › stats — “UPPSC Mains” → UPPCS Mains",
+  "note": "",
+  "old": "\"UPPSC Mains/RO/Lower: Act–year pairs and polity-paper miscellany\"",
+  "new": "\"UPPCS Mains · UPPSC RO/ARO & Lower: Act–year pairs and polity-paper miscellany\""
+ },
+ {
+  "id": "U4",
+  "item": 6,
+  "pair": "UP file › stats — “UPPSC Mains” → UPPCS Mains",
+  "note": "",
+  "old": "\"UPPSC Mains/RO/Lower: UP local bodies, UPPSC, UP Lokayukta\"",
+  "new": "\"UPPCS Mains · UPPSC RO/ARO & Lower: UP local bodies, UPPSC, UP Lokayukta\""
+ },
+ {
+  "id": "E73",
+  "item": 3,
+  "pair": "(Art 101(4) — Numbers › Time limits copy)",
+  "note": "",
+  "old": "\"**60 days** → seat may be declared vacant (101(4)) [UPPCS 2018]\"",
+  "new": "\"**60 days** → seat may be declared vacant (101(4)) [UPPCS 2018; UPPCS M 2004]\""
+ }
+]
