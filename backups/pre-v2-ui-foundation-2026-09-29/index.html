@@ -18,7 +18,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,300..800;1,300..800&family=Atkinson+Hyperlegible+Mono:wght@400..700&family=Source+Serif+4:opsz,wght@8..60,400..700&display=swap">
 <link rel="stylesheet" href="app/css/vault.css">
-<link rel="stylesheet" href="app/css/v2.css">
 <script>
 /* apply saved theme/size before first paint (no flash) */
 (function(){try{var s=JSON.parse(localStorage.getItem("vault.v1.settings")||"{}"),d=document.documentElement.dataset;if(s.theme&&s.theme!=="auto")d.theme=s.theme;d.size=s.size||"m";d.density=s.density||"comfortable";d.width=s.width||"normal";d.font=s.font||"hyper";}catch(e){}})();
@@ -38,11 +37,6 @@
 <script src="app/js/views/pages.js"></script>
 <script src="app/js/views/study.js"></script>
 <script src="app/js/views/insight.js"></script>
-<!-- isolated v2 foundation: contract → sample data → components → routes -->
-<script src="app/js/v2/model/contracts.js"></script>
-<script src="app/js/v2/model/mock-data.js"></script>
-<script src="app/js/v2/components/presentation.js"></script>
-<script src="app/js/v2/views/prototype.js"></script>
 <script src="app/js/app.js"></script>
 <!-- offline / installable (http(s) only — opening index.html from disk still works without it) -->
 <script>if("serviceWorker" in navigator&&/^https?:$/.test(location.protocol))addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){});});</script>

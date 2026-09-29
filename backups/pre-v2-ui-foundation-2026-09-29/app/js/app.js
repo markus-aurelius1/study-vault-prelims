@@ -13,13 +13,7 @@
     const q = {}; new URLSearchParams(qi < 0 ? "" : h.slice(qi + 1)).forEach((v, k) => { q[k] = v; });
     const seg = path.split("/").filter(Boolean);
     let name = "dashboard", p = { q };
-    if (seg[0] === "v2") {
-      if (seg[1] === "s" && seg[2]) { name = "v2Subject"; p.subj = seg[2]; }
-      else if (seg[1] === "t" && seg[2]) { name = "v2Topic"; p.topic = seg[2]; }
-      else if (seg[1] === "pyq") name = "v2Pyq";
-      else name = "v2Home";
-    }
-    else if (seg[0] === "subjects") name = "library";
+    if (seg[0] === "subjects") name = "library";
     else if (seg[0] === "s" && seg[1]) { p.subj = seg[1]; if (seg[2]) { name = "reader"; p.sheet = seg[2]; } else name = "subject"; }
     else if (seg[0] === "search") name = "search";
     else if (seg[0] === "revise") name = seg[1] === "session" ? "reviseSession" : "revise";
@@ -45,9 +39,7 @@
     app.name = r.name; app.params = r.p; app.view = view;
     const main = V.$("#view");
     const mode = view.mode || "page";
-    const shell = document.getElementById("app");
-    shell.classList.toggle("v2-mode", mode === "v2");
-    shell.classList.toggle("reading", mode !== "page" && mode !== "v2");
+    document.getElementById("app").classList.toggle("reading", mode !== "page");
     let html;
     try { html = view.render(r.p); } catch (e) { console.error(e); html = '<div class="page"><h1 class="h1">Something went wrong</h1><p class="lede">' + V.esc(e.message) + '</p><p><a href="#/">Back to dashboard</a></p></div>'; }
     main.innerHTML = '<div class="view-enter">' + html + "</div>";
@@ -132,7 +124,6 @@
   ];
   let cp = null;
   V.palette = (initial) => {
-    if (app.name && app.name.indexOf("v2") === 0 && window.V2 && window.V2.palette) { window.V2.palette(initial); return; }
     if (cp) { closePalette(); return; }
     V.closePop();
     const w = document.createElement("div"); w.className = "cp-wrap";
@@ -196,11 +187,11 @@
 
   document.addEventListener("keydown", e => {
     if ((e.ctrlKey || e.metaKey) && (e.key === "k" || e.key === "K")) { e.preventDefault(); V.palette(); return; }
-    if (e.key === "Escape") { if (window.V2 && window.V2.escape && window.V2.escape()) return; V.closePop(); closeDrawer(); return; }
+    if (e.key === "Escape") { V.closePop(); closeDrawer(); return; }
     if (cp || V.isTyping(e) || e.ctrlKey || e.metaKey || e.altKey || V.$(".dlg-wrap")) return;
     if (e.key === "/") { e.preventDefault(); V.palette(); return; }
     if (e.key === "?") { e.preventDefault(); V.shortcuts(); return; }
-    if (e.key === "m") { e.preventDefault(); if (app.name && app.name.indexOf("v2") === 0 && window.V2 && window.V2.toggleNav) window.V2.toggleNav(); else V.toggleDrawer(); return; }
+    if (e.key === "m") { e.preventDefault(); V.toggleDrawer(); return; }
     if (app.view && app.view.key) app.view.key(e);
   });
 
